@@ -1,0 +1,977 @@
+ano,selecao,iso3,adversario,gols_pro,gols_contra,resultado,renda_pc,idh,vitoria
+1990,Argentina,ARG,Cameroon,0,1,derrota,13597.68636,0.723,0
+1990,Russia,RUS,Romania,0,2,derrota,21447.82461,0.743,0
+1990,United Arab Emirates,ARE,Colombia,0,2,derrota,102433.136,0.728,0
+1990,Italy,ITA,Austria,1,0,vitoria,36208.56056,0.778,1
+1990,United States,USA,Czechoslovakia,1,5,derrota,39472.3021,0.872,0
+1990,Brazil,BRA,Sweden,2,1,vitoria,10253.78902,0.61,1
+1990,Germany,DEU,Yugoslavia,4,1,vitoria,36587.31592,0.829,1
+1990,Costa Rica,CRI,Scotland,1,0,vitoria,9497.759187,0.66,1
+1990,England,GBR,Republic of Ireland,1,1,empate,30951.71296,0.804,0
+1990,Belgium,BEL,South Korea,2,0,vitoria,37310.42543,0.816,1
+1990,Netherlands,NLD,Egypt,1,1,empate,36296.26729,0.847,0
+1990,Uruguay,URY,Spain,0,0,empate,10699.72084,0.701,0
+1990,Argentina,ARG,Russia,2,0,vitoria,13597.68636,0.723,1
+1990,Cameroon,CMR,Romania,2,1,vitoria,3262.451152,0.452,1
+1990,Yugoslavia,SRB,Colombia,1,0,vitoria,,,1
+1990,Italy,ITA,United States,1,0,vitoria,36208.56056,0.778,1
+1990,Austria,AUT,Czechoslovakia,0,1,derrota,38902.26267,0.825,0
+1990,Germany,DEU,United Arab Emirates,5,1,vitoria,36587.31592,0.829,1
+1990,Brazil,BRA,Costa Rica,1,0,vitoria,10253.78902,0.61,1
+1990,Sweden,SWE,Scotland,1,2,derrota,35365.03368,0.81,0
+1990,England,GBR,Netherlands,0,0,empate,30951.71296,0.804,0
+1990,Republic of Ireland,IRL,Egypt,0,0,empate,23391.17612,0.737,0
+1990,South Korea,KOR,Spain,1,3,derrota,12641.31667,0.737,0
+1990,Belgium,BEL,Uruguay,3,1,vitoria,37310.42543,0.816,1
+1990,Argentina,ARG,Romania,1,1,empate,13597.68636,0.723,0
+1990,Cameroon,CMR,Russia,0,4,derrota,3262.451152,0.452,0
+1990,Germany,DEU,Colombia,1,1,empate,36587.31592,0.829,0
+1990,Yugoslavia,SRB,United Arab Emirates,4,1,vitoria,,,1
+1990,Italy,ITA,Czechoslovakia,2,0,vitoria,36208.56056,0.778,1
+1990,Austria,AUT,United States,2,1,vitoria,38902.26267,0.825,1
+1990,Brazil,BRA,Scotland,1,0,vitoria,10253.78902,0.61,1
+1990,Sweden,SWE,Costa Rica,1,2,derrota,35365.03368,0.81,0
+1990,South Korea,KOR,Uruguay,0,1,derrota,12641.31667,0.737,0
+1990,Belgium,BEL,Spain,1,2,derrota,37310.42543,0.816,0
+1990,Republic of Ireland,IRL,Netherlands,1,1,empate,23391.17612,0.737,0
+1990,England,GBR,Egypt,1,0,vitoria,30951.71296,0.804,1
+1990,Cameroon,CMR,Colombia,2,1,vitoria,3262.451152,0.452,1
+1990,Czechoslovakia,CZE,Costa Rica,4,1,vitoria,22486.80598,0.742,1
+1990,Brazil,BRA,Argentina,0,1,derrota,10253.78902,0.61,0
+1990,Germany,DEU,Netherlands,2,1,vitoria,36587.31592,0.829,1
+1990,Republic of Ireland,IRL,Romania,0,0,empate,23391.17612,0.737,0
+1990,Italy,ITA,Uruguay,2,0,vitoria,36208.56056,0.778,1
+1990,Spain,ESP,Yugoslavia,1,2,derrota,26586.92295,0.757,0
+1990,England,GBR,Belgium,1,0,vitoria,30951.71296,0.804,1
+1990,Yugoslavia,SRB,Argentina,0,0,empate,,,0
+1990,Italy,ITA,Republic of Ireland,1,0,vitoria,36208.56056,0.778,1
+1990,Germany,DEU,Czechoslovakia,1,0,vitoria,36587.31592,0.829,1
+1990,England,GBR,Cameroon,3,2,vitoria,30951.71296,0.804,1
+1990,Italy,ITA,Argentina,1,1,empate,36208.56056,0.778,0
+1990,Germany,DEU,England,1,1,empate,36587.31592,0.829,0
+1990,Italy,ITA,England,2,1,vitoria,36208.56056,0.778,1
+1990,Germany,DEU,Argentina,1,0,vitoria,36587.31592,0.829,1
+1994,Germany,DEU,Bolivia,1,0,vitoria,38764.17249,0.858,1
+1994,Spain,ESP,South Korea,2,2,empate,27291.10724,0.789,0
+1994,United States,USA,Switzerland,1,1,empate,41280.44005,0.884,0
+1994,Italy,ITA,Republic of Ireland,0,1,derrota,37314.22695,0.804,0
+1994,Colombia,COL,Romania,1,3,derrota,8940.705583,0.64,0
+1994,Belgium,BEL,Morocco,1,0,vitoria,39684.17044,0.858,1
+1994,Norway,NOR,Mexico,1,0,vitoria,39504.12494,0.873,1
+1994,Cameroon,CMR,Sweden,2,2,empate,2511.078298,0.436,0
+1994,Brazil,BRA,Russia,2,0,vitoria,10554.70878,0.638,1
+1994,Netherlands,NLD,Saudi Arabia,2,1,vitoria,38615.60382,0.881,1
+1994,Argentina,ARG,Greece,4,0,vitoria,17874.84399,0.744,1
+1994,Germany,DEU,Spain,1,1,empate,38764.17249,0.858,0
+1994,Nigeria,NGA,Bulgaria,3,0,vitoria,2765.381452,,1
+1994,Romania,ROU,Switzerland,1,4,derrota,11361.39657,0.682,0
+1994,United States,USA,Colombia,2,1,vitoria,41280.44005,0.884,1
+1994,Italy,ITA,Norway,1,0,vitoria,37314.22695,0.804,1
+1994,South Korea,KOR,Bolivia,0,0,empate,16649.35858,0.773,0
+1994,Mexico,MEX,Republic of Ireland,2,1,vitoria,15693.75777,0.674,1
+1994,Brazil,BRA,Cameroon,3,0,vitoria,10554.70878,0.638,1
+1994,Sweden,SWE,Russia,3,1,vitoria,33639.80999,0.851,1
+1994,Belgium,BEL,Netherlands,1,0,vitoria,39684.17044,0.858,1
+1994,Saudi Arabia,SAU,Morocco,2,1,vitoria,44036.64032,0.704,1
+1994,Argentina,ARG,Nigeria,2,1,vitoria,17874.84399,0.744,1
+1994,Bulgaria,BGR,Greece,4,0,vitoria,11071.07509,0.691,1
+1994,United States,USA,Romania,0,1,derrota,41280.44005,0.884,0
+1994,Switzerland,CHE,Colombia,0,2,derrota,56462.67389,0.863,0
+1994,Germany,DEU,South Korea,3,2,vitoria,38764.17249,0.858,1
+1994,Bolivia,BOL,Spain,1,3,derrota,4782.391567,0.587,0
+1994,Republic of Ireland,IRL,Norway,0,0,empate,26340.14874,0.771,0
+1994,Italy,ITA,Mexico,1,1,empate,37314.22695,0.804,0
+1994,Brazil,BRA,Sweden,1,1,empate,10554.70878,0.638,0
+1994,Russia,RUS,Cameroon,6,1,vitoria,13825.24638,0.698,1
+1994,Morocco,MAR,Netherlands,1,2,derrota,3986.447718,0.475,0
+1994,Belgium,BEL,Saudi Arabia,0,1,derrota,39684.17044,0.858,0
+1994,Greece,GRC,Nigeria,0,2,derrota,24660.63167,0.774,0
+1994,Argentina,ARG,Bulgaria,0,2,derrota,17874.84399,0.744,0
+1994,Germany,DEU,Belgium,3,2,vitoria,38764.17249,0.858,1
+1994,Spain,ESP,Switzerland,3,0,vitoria,27291.10724,0.789,1
+1994,Saudi Arabia,SAU,Sweden,1,3,derrota,44036.64032,0.704,0
+1994,Romania,ROU,Argentina,3,2,vitoria,11361.39657,0.682,1
+1994,Netherlands,NLD,Republic of Ireland,2,0,vitoria,38615.60382,0.881,1
+1994,United States,USA,Brazil,0,1,derrota,41280.44005,0.884,0
+1994,Nigeria,NGA,Italy,1,2,derrota,2765.381452,,0
+1994,Mexico,MEX,Bulgaria,1,1,empate,15693.75777,0.674,0
+1994,Italy,ITA,Spain,2,1,vitoria,37314.22695,0.804,1
+1994,Netherlands,NLD,Brazil,2,3,derrota,38615.60382,0.881,0
+1994,Bulgaria,BGR,Germany,2,1,vitoria,11071.07509,0.691,1
+1994,Romania,ROU,Sweden,2,2,empate,11361.39657,0.682,0
+1994,Bulgaria,BGR,Italy,1,2,derrota,11071.07509,0.691,0
+1994,Sweden,SWE,Brazil,0,1,derrota,33639.80999,0.851,0
+1994,Sweden,SWE,Bulgaria,4,0,vitoria,33639.80999,0.851,1
+1994,Brazil,BRA,Italy,0,0,empate,10554.70878,0.638,0
+1998,Brazil,BRA,Scotland,2,1,vitoria,10889.91945,0.666,1
+1998,Morocco,MAR,Norway,2,2,empate,4265.93096,0.501,0
+1998,Italy,ITA,Chile,2,2,empate,41091.27344,0.829,0
+1998,Cameroon,CMR,Austria,1,1,empate,2665.582055,0.436,0
+1998,Paraguay,PRY,Bulgaria,0,0,empate,8479.868689,0.644,0
+1998,Saudi Arabia,SAU,Denmark,0,1,derrota,43524.14147,0.727,0
+1998,France,FRA,South Africa,3,0,vitoria,37927.29301,0.842,1
+1998,Spain,ESP,Nigeria,2,3,derrota,31386.59797,0.813,0
+1998,South Korea,KOR,Mexico,1,3,derrota,18907.77671,0.804,0
+1998,Netherlands,NLD,Belgium,0,0,empate,44209.7944,0.886,0
+1998,Argentina,ARG,Japan,1,0,vitoria,19427.08332,0.762,1
+1998,Yugoslavia,SRB,Iran,1,0,vitoria,9203.31905,0.687,1
+1998,Jamaica,JAM,Croatia,1,3,derrota,8839.144995,0.666,0
+1998,England,GBR,Tunisia,2,0,vitoria,35707.68553,0.848,1
+1998,Romania,ROU,Colombia,1,0,vitoria,11722.06464,0.7,1
+1998,Germany,DEU,United States,2,0,vitoria,40941.19258,0.879,1
+1998,Scotland,GBR,Norway,1,1,empate,35707.68553,0.848,0
+1998,Brazil,BRA,Morocco,3,0,vitoria,10889.91945,0.666,1
+1998,Chile,CHL,Austria,1,1,empate,14996.25315,0.749,0
+1998,Italy,ITA,Cameroon,3,0,vitoria,41091.27344,0.829,1
+1998,South Africa,ZAF,Denmark,1,1,empate,10443.91836,0.644,0
+1998,France,FRA,Saudi Arabia,4,0,vitoria,37927.29301,0.842,1
+1998,Nigeria,NGA,Bulgaria,1,0,vitoria,2803.733211,,1
+1998,Spain,ESP,Paraguay,0,0,empate,31386.59797,0.813,0
+1998,Japan,JPN,Croatia,0,1,derrota,37789.3161,0.871,0
+1998,Belgium,BEL,Mexico,2,2,empate,42943.50772,0.878,0
+1998,Netherlands,NLD,South Korea,5,0,vitoria,44209.7944,0.886,1
+1998,Germany,DEU,Yugoslavia,2,2,empate,40941.19258,0.879,0
+1998,Argentina,ARG,Jamaica,5,0,vitoria,19427.08332,0.762,1
+1998,United States,USA,Iran,1,2,derrota,47253.20126,0.893,0
+1998,Colombia,COL,Tunisia,1,0,vitoria,9318.106668,0.665,1
+1998,Romania,ROU,England,2,1,vitoria,11722.06464,0.7,1
+1998,Italy,ITA,Austria,2,1,vitoria,41091.27344,0.829,1
+1998,Chile,CHL,Cameroon,1,1,empate,14996.25315,0.749,0
+1998,Scotland,GBR,Morocco,0,3,derrota,35707.68553,0.848,0
+1998,Brazil,BRA,Norway,1,2,derrota,10889.91945,0.666,0
+1998,France,FRA,Denmark,2,1,vitoria,37927.29301,0.842,1
+1998,South Africa,ZAF,Saudi Arabia,2,2,empate,10443.91836,0.644,0
+1998,Spain,ESP,Bulgaria,6,1,vitoria,31386.59797,0.813,1
+1998,Nigeria,NGA,Paraguay,1,3,derrota,2803.733211,,0
+1998,Belgium,BEL,South Korea,1,1,empate,42943.50772,0.878,0
+1998,Netherlands,NLD,Mexico,2,2,empate,44209.7944,0.886,0
+1998,Germany,DEU,Iran,2,0,vitoria,40941.19258,0.879,1
+1998,United States,USA,Yugoslavia,0,1,derrota,47253.20126,0.893,0
+1998,Japan,JPN,Jamaica,1,2,derrota,37789.3161,0.871,0
+1998,Argentina,ARG,Croatia,1,0,vitoria,19427.08332,0.762,1
+1998,Romania,ROU,Tunisia,1,1,empate,11722.06464,0.7,0
+1998,Colombia,COL,England,0,2,derrota,9318.106668,0.665,0
+1998,Italy,ITA,Norway,1,0,vitoria,41091.27344,0.829,1
+1998,Brazil,BRA,Chile,4,1,vitoria,10889.91945,0.666,1
+1998,France,FRA,Paraguay,1,0,vitoria,37927.29301,0.842,1
+1998,Nigeria,NGA,Denmark,1,4,derrota,2803.733211,,0
+1998,Germany,DEU,Mexico,2,1,vitoria,40941.19258,0.879,1
+1998,Netherlands,NLD,Yugoslavia,2,1,vitoria,44209.7944,0.886,1
+1998,Romania,ROU,Croatia,0,1,derrota,11722.06464,0.7,0
+1998,Argentina,ARG,England,2,2,empate,19427.08332,0.762,0
+1998,France,FRA,Italy,0,0,empate,37927.29301,0.842,0
+1998,Brazil,BRA,Denmark,3,2,vitoria,10889.91945,0.666,1
+1998,Netherlands,NLD,Argentina,2,1,vitoria,44209.7944,0.886,1
+1998,Germany,DEU,Croatia,0,3,derrota,40941.19258,0.879,0
+1998,Brazil,BRA,Netherlands,1,1,empate,10889.91945,0.666,0
+1998,France,FRA,Croatia,2,1,vitoria,37927.29301,0.842,1
+1998,Netherlands,NLD,Croatia,1,2,derrota,44209.7944,0.886,0
+1998,France,FRA,Brazil,3,0,vitoria,37927.29301,0.842,1
+2002,France,FRA,Senegal,0,1,derrota,40731.98644,0.848,0
+2002,Republic of Ireland,IRL,Cameroon,1,1,empate,42417.42304,0.864,0
+2002,Uruguay,URY,Denmark,1,2,derrota,12897.16027,0.764,0
+2002,Germany,DEU,Saudi Arabia,8,0,vitoria,42877.62022,0.901,1
+2002,Argentina,ARG,Nigeria,1,0,vitoria,14727.85071,0.785,1
+2002,Paraguay,PRY,South Africa,2,2,empate,7400.037724,0.662,0
+2002,England,GBR,Sweden,1,1,empate,39849.42208,0.873,0
+2002,Spain,ESP,Slovenia,3,1,vitoria,35942.07889,0.834,1
+2002,Croatia,HRV,Mexico,0,1,derrota,20441.25459,0.777,0
+2002,Brazil,BRA,Turkey,2,1,vitoria,11415.26383,0.692,1
+2002,Italy,ITA,Ecuador,2,0,vitoria,43948.71871,0.853,1
+2002,China,CHN,Costa Rica,0,2,derrota,3988.393847,0.604,0
+2002,Japan,JPN,Belgium,2,2,empate,38355.44101,0.882,0
+2002,South Korea,KOR,Poland,2,0,vitoria,25490.7206,0.84,1
+2002,Russia,RUS,Tunisia,2,0,vitoria,15886.59368,0.746,1
+2002,United States,USA,Portugal,3,2,vitoria,50936.99207,0.893,1
+2002,Germany,DEU,Republic of Ireland,1,1,empate,42877.62022,0.901,0
+2002,Denmark,DNK,Senegal,1,1,empate,46964.49154,0.896,0
+2002,Cameroon,CMR,Saudi Arabia,1,0,vitoria,2805.071743,0.461,1
+2002,France,FRA,Uruguay,0,0,empate,40731.98644,0.848,0
+2002,Sweden,SWE,Nigeria,2,1,vitoria,42543.37441,0.91,1
+2002,Spain,ESP,Paraguay,3,1,vitoria,35942.07889,0.834,1
+2002,Argentina,ARG,England,0,1,derrota,14727.85071,0.785,0
+2002,South Africa,ZAF,Slovenia,1,0,vitoria,11214.99293,0.633,1
+2002,Italy,ITA,Croatia,1,2,derrota,43948.71871,0.853,0
+2002,Brazil,BRA,China,4,0,vitoria,11415.26383,0.692,1
+2002,Mexico,MEX,Ecuador,2,1,vitoria,16899.50116,0.719,1
+2002,Costa Rica,CRI,Turkey,1,1,empate,12476.34459,0.722,0
+2002,Japan,JPN,Russia,1,0,vitoria,38355.44101,0.882,1
+2002,South Korea,KOR,United States,1,1,empate,25490.7206,0.84,0
+2002,Tunisia,TUN,Belgium,1,1,empate,7829.054562,0.67,0
+2002,Portugal,PRT,Poland,4,0,vitoria,29484.44685,0.798,1
+2002,Denmark,DNK,France,2,0,vitoria,46964.49154,0.896,1
+2002,Senegal,SEN,Uruguay,3,3,empate,2548.542269,0.398,0
+2002,Saudi Arabia,SAU,Republic of Ireland,0,3,derrota,38447.68497,0.75,0
+2002,Cameroon,CMR,Germany,0,2,derrota,2805.071743,0.461,0
+2002,Sweden,SWE,Argentina,1,1,empate,42543.37441,0.91,0
+2002,Nigeria,NGA,England,0,0,empate,3191.837532,,0
+2002,Slovenia,SVN,Paraguay,1,3,derrota,28341.71764,0.848,0
+2002,South Africa,ZAF,Spain,2,3,derrota,11214.99293,0.633,0
+2002,Costa Rica,CRI,Brazil,2,5,derrota,12476.34459,0.722,0
+2002,Turkey,TUR,China,3,0,vitoria,15090.04263,0.684,1
+2002,Ecuador,ECU,Croatia,1,0,vitoria,8191.207779,0.698,1
+2002,Mexico,MEX,Italy,1,1,empate,16899.50116,0.719,0
+2002,Japan,JPN,Tunisia,2,0,vitoria,38355.44101,0.882,1
+2002,Belgium,BEL,Russia,3,2,vitoria,45852.84486,0.892,1
+2002,South Korea,KOR,Portugal,1,0,vitoria,25490.7206,0.84,1
+2002,Poland,POL,United States,3,1,vitoria,16740.2735,0.806,1
+2002,Germany,DEU,Paraguay,1,0,vitoria,42877.62022,0.901,1
+2002,Denmark,DNK,England,0,3,derrota,46964.49154,0.896,0
+2002,Sweden,SWE,Senegal,1,2,derrota,42543.37441,0.91,0
+2002,Spain,ESP,Republic of Ireland,1,1,empate,35942.07889,0.834,0
+2002,Mexico,MEX,United States,0,2,derrota,16899.50116,0.719,0
+2002,Brazil,BRA,Belgium,2,0,vitoria,11415.26383,0.692,1
+2002,Japan,JPN,Turkey,0,1,derrota,38355.44101,0.882,0
+2002,South Korea,KOR,Italy,2,1,vitoria,25490.7206,0.84,1
+2002,England,GBR,Brazil,1,2,derrota,39849.42208,0.873,0
+2002,Germany,DEU,United States,1,0,vitoria,42877.62022,0.901,1
+2002,South Korea,KOR,Spain,0,0,empate,25490.7206,0.84,0
+2002,Senegal,SEN,Turkey,0,1,derrota,2548.542269,0.398,0
+2002,South Korea,KOR,Germany,0,1,derrota,25490.7206,0.84,0
+2002,Brazil,BRA,Turkey,1,0,vitoria,11415.26383,0.692,1
+2002,South Korea,KOR,Turkey,2,3,derrota,25490.7206,0.84,0
+2002,Germany,DEU,Brazil,0,2,derrota,42877.62022,0.901,0
+2006,Germany,DEU,Costa Rica,4,2,vitoria,46045.61338,0.917,1
+2006,Poland,POL,Ecuador,0,2,derrota,19685.71892,0.82,0
+2006,England,GBR,Paraguay,1,0,vitoria,43021.0528,0.894,1
+2006,Trinidad and Tobago,TTO,Sweden,0,0,empate,26206.36859,0.767,0
+2006,Argentina,ARG,Ivory Coast,2,1,vitoria,20131.40256,0.814,1
+2006,Serbia,SRB,Netherlands,0,1,derrota,12795.25716,0.746,0
+2006,Mexico,MEX,Iran,3,1,vitoria,18033.14918,0.741,1
+2006,Angola,AGO,Portugal,0,1,derrota,5672.126464,0.459,0
+2006,Australia,AUS,Japan,3,1,vitoria,41648.29006,0.914,1
+2006,United States,USA,Czech Republic,0,3,derrota,55681.43355,0.904,0
+2006,Italy,ITA,Ghana,2,0,vitoria,44658.82268,0.873,1
+2006,South Korea,KOR,Togo,2,1,vitoria,29901.61423,0.866,1
+2006,France,FRA,Switzerland,0,0,empate,42662.02398,0.87,0
+2006,Brazil,BRA,Croatia,1,0,vitoria,12605.81821,0.7,1
+2006,Spain,ESP,Ukraine,4,0,vitoria,38471.31913,0.856,1
+2006,Tunisia,TUN,Saudi Arabia,2,2,empate,9152.383855,0.7,0
+2006,Germany,DEU,Poland,1,0,vitoria,46045.61338,0.917,1
+2006,Ecuador,ECU,Costa Rica,3,0,vitoria,9385.692493,0.72,1
+2006,England,GBR,Trinidad and Tobago,2,0,vitoria,43021.0528,0.894,1
+2006,Sweden,SWE,Paraguay,1,0,vitoria,48497.11531,0.906,1
+2006,Argentina,ARG,Serbia,6,0,vitoria,20131.40256,0.814,1
+2006,Netherlands,NLD,Ivory Coast,2,1,vitoria,52037.50952,0.906,1
+2006,Mexico,MEX,Angola,0,0,empate,18033.14918,0.741,0
+2006,Portugal,PRT,Iran,2,0,vitoria,29778.5573,0.811,1
+2006,Czech Republic,CZE,Ghana,0,2,derrota,30366.83164,0.852,0
+2006,Italy,ITA,United States,1,1,empate,44658.82268,0.873,0
+2006,Japan,JPN,Croatia,0,0,empate,40407.54524,0.892,0
+2006,Brazil,BRA,Australia,2,0,vitoria,12605.81821,0.7,1
+2006,France,FRA,South Korea,1,1,empate,42662.02398,0.87,0
+2006,Togo,TGO,Switzerland,0,2,derrota,1549.220448,0.464,0
+2006,Saudi Arabia,SAU,Ukraine,0,4,derrota,44807.12574,0.787,0
+2006,Spain,ESP,Tunisia,3,1,vitoria,38471.31913,0.856,1
+2006,Germany,DEU,Ecuador,3,0,vitoria,46045.61338,0.917,1
+2006,Costa Rica,CRI,Poland,1,2,derrota,14575.16346,0.747,0
+2006,Sweden,SWE,England,2,2,empate,48497.11531,0.906,0
+2006,Paraguay,PRY,Trinidad and Tobago,2,0,vitoria,7967.30967,0.664,1
+2006,Iran,IRN,Angola,1,1,empate,12465.95662,0.727,0
+2006,Portugal,PRT,Mexico,2,1,vitoria,29778.5573,0.811,1
+2006,Netherlands,NLD,Argentina,0,0,empate,52037.50952,0.906,0
+2006,Ivory Coast,CIV,Serbia,3,2,vitoria,2529.149232,0.458,1
+2006,Czech Republic,CZE,Italy,0,2,derrota,30366.83164,0.852,0
+2006,Ghana,GHA,United States,2,1,vitoria,3260.440634,0.54,1
+2006,Japan,JPN,Brazil,1,4,derrota,40407.54524,0.892,0
+2006,Croatia,HRV,Australia,2,2,empate,24318.48786,0.811,0
+2006,Ukraine,UKR,Tunisia,1,0,vitoria,11674.10072,0.751,1
+2006,Saudi Arabia,SAU,Spain,0,1,derrota,44807.12574,0.787,0
+2006,Togo,TGO,France,0,2,derrota,1549.220448,0.464,0
+2006,Switzerland,CHE,South Korea,2,0,vitoria,69488.94513,0.914,1
+2006,Germany,DEU,Sweden,2,0,vitoria,46045.61338,0.917,1
+2006,Argentina,ARG,Mexico,2,1,vitoria,20131.40256,0.814,1
+2006,England,GBR,Ecuador,1,0,vitoria,43021.0528,0.894,1
+2006,Portugal,PRT,Netherlands,1,0,vitoria,29778.5573,0.811,1
+2006,Italy,ITA,Australia,1,0,vitoria,44658.82268,0.873,1
+2006,Switzerland,CHE,Ukraine,0,0,empate,69488.94513,0.914,0
+2006,Brazil,BRA,Ghana,3,0,vitoria,12605.81821,0.7,1
+2006,Spain,ESP,France,1,3,derrota,38471.31913,0.856,0
+2006,Germany,DEU,Argentina,1,1,empate,46045.61338,0.917,0
+2006,Italy,ITA,Ukraine,3,0,vitoria,44658.82268,0.873,1
+2006,England,GBR,Portugal,0,0,empate,43021.0528,0.894,0
+2006,Brazil,BRA,France,0,1,derrota,12605.81821,0.7,0
+2006,Germany,DEU,Italy,0,2,derrota,46045.61338,0.917,0
+2006,Portugal,PRT,France,0,1,derrota,29778.5573,0.811,0
+2006,Germany,DEU,Portugal,3,1,vitoria,46045.61338,0.917,1
+2006,Italy,ITA,France,1,1,empate,44658.82268,0.873,0
+2010,South Africa,ZAF,Mexico,1,1,empate,13354.96125,0.675,0
+2010,Uruguay,URY,France,0,0,empate,18614.31477,0.787,0
+2010,South Korea,KOR,Greece,2,0,vitoria,34443.54124,0.89,1
+2010,Argentina,ARG,Nigeria,1,0,vitoria,22734.96712,0.834,1
+2010,England,GBR,United States,1,1,empate,41666.51526,0.912,0
+2010,Algeria,DZA,Slovenia,0,1,derrota,10918.46514,0.721,0
+2010,Serbia,SRB,Ghana,0,1,derrota,14211.49905,0.767,0
+2010,Germany,DEU,Australia,4,0,vitoria,47554.22563,0.926,1
+2010,Netherlands,NLD,Denmark,2,0,vitoria,52227.99073,0.917,1
+2010,Japan,JPN,Cameroon,1,0,vitoria,39152.92818,0.898,1
+2010,Italy,ITA,Paraguay,1,1,empate,42150.60535,0.882,0
+2010,New Zealand,NZL,Slovakia,1,1,empate,34114.89481,0.922,0
+2010,Ivory Coast,CIV,Portugal,0,0,empate,2702.006924,0.473,0
+2010,Brazil,BRA,North Korea,2,1,vitoria,14414.12776,0.723,1
+2010,Honduras,HND,Chile,0,1,derrota,4647.567903,0.597,0
+2010,Spain,ESP,Switzerland,0,1,derrota,37173.6819,0.868,0
+2010,South Africa,ZAF,Uruguay,0,3,derrota,13354.96125,0.675,0
+2010,Argentina,ARG,South Korea,4,1,vitoria,22734.96712,0.834,1
+2010,Greece,GRC,Nigeria,2,1,vitoria,32426.75908,0.869,1
+2010,France,FRA,Mexico,0,2,derrota,42771.58715,0.877,0
+2010,Germany,DEU,Serbia,0,1,derrota,47554.22563,0.926,0
+2010,Slovenia,SVN,United States,2,2,empate,32747.03725,0.89,0
+2010,England,GBR,Algeria,0,0,empate,41666.51526,0.912,0
+2010,Netherlands,NLD,Japan,1,0,vitoria,52227.99073,0.917,1
+2010,Ghana,GHA,Australia,1,1,empate,3757.458926,0.574,0
+2010,Cameroon,CMR,Denmark,1,2,derrota,3193.326015,0.513,0
+2010,Slovakia,SVK,Paraguay,0,2,derrota,26036.87643,0.84,0
+2010,Italy,ITA,New Zealand,1,1,empate,42150.60535,0.882,0
+2010,Brazil,BRA,Ivory Coast,3,1,vitoria,14414.12776,0.723,1
+2010,Portugal,PRT,North Korea,7,0,vitoria,30139.45026,0.829,1
+2010,Chile,CHL,Switzerland,1,0,vitoria,19744.92469,0.813,1
+2010,Spain,ESP,Honduras,2,0,vitoria,37173.6819,0.868,1
+2010,Mexico,MEX,Uruguay,0,1,derrota,17575.83104,0.746,0
+2010,South Africa,ZAF,France,2,1,vitoria,13354.96125,0.675,1
+2010,Nigeria,NGA,South Korea,2,2,empate,4635.558111,0.482,0
+2010,Greece,GRC,Argentina,0,2,derrota,32426.75908,0.869,0
+2010,Slovenia,SVN,England,0,1,derrota,32747.03725,0.89,0
+2010,United States,USA,Algeria,1,0,vitoria,54265.33606,0.911,1
+2010,Ghana,GHA,Germany,0,1,derrota,3757.458926,0.574,0
+2010,Australia,AUS,Serbia,2,1,vitoria,42840.45928,0.923,1
+2010,Slovakia,SVK,Italy,3,2,vitoria,26036.87643,0.84,1
+2010,Paraguay,PRY,New Zealand,0,0,empate,9908.752523,0.685,0
+2010,Denmark,DNK,Japan,1,3,derrota,51409.125,0.913,0
+2010,Cameroon,CMR,Netherlands,1,2,derrota,3193.326015,0.513,0
+2010,Portugal,PRT,Brazil,0,0,empate,30139.45026,0.829,0
+2010,North Korea,PRK,Ivory Coast,0,3,derrota,,,0
+2010,Chile,CHL,Spain,1,2,derrota,19744.92469,0.813,0
+2010,Switzerland,CHE,Honduras,0,0,empate,71188.41857,0.942,0
+2010,Uruguay,URY,South Korea,2,1,vitoria,18614.31477,0.787,1
+2010,United States,USA,Ghana,1,2,derrota,54265.33606,0.911,0
+2010,Germany,DEU,England,4,1,vitoria,47554.22563,0.926,1
+2010,Argentina,ARG,Mexico,3,1,vitoria,22734.96712,0.834,1
+2010,Netherlands,NLD,Slovakia,2,1,vitoria,52227.99073,0.917,1
+2010,Brazil,BRA,Chile,3,0,vitoria,14414.12776,0.723,1
+2010,Paraguay,PRY,Japan,0,0,empate,9908.752523,0.685,0
+2010,Spain,ESP,Portugal,1,0,vitoria,37173.6819,0.868,1
+2010,Netherlands,NLD,Brazil,2,1,vitoria,52227.99073,0.917,1
+2010,Uruguay,URY,Ghana,1,1,empate,18614.31477,0.787,0
+2010,Argentina,ARG,Germany,0,4,derrota,22734.96712,0.834,0
+2010,Paraguay,PRY,Spain,0,1,derrota,9908.752523,0.685,0
+2010,Uruguay,URY,Netherlands,2,3,derrota,18614.31477,0.787,0
+2010,Germany,DEU,Spain,0,1,derrota,47554.22563,0.926,0
+2010,Uruguay,URY,Germany,2,3,derrota,18614.31477,0.787,0
+2010,Netherlands,NLD,Spain,0,1,derrota,52227.99073,0.917,0
+2014,Brazil,BRA,Croatia,3,1,vitoria,15454.76924,0.754,1
+2014,Mexico,MEX,Cameroon,1,0,vitoria,18423.54338,0.764,1
+2014,Spain,ESP,Netherlands,1,5,derrota,35796.00345,0.884,0
+2014,Chile,CHL,Australia,3,1,vitoria,23261.50787,0.841,1
+2014,Colombia,COL,Greece,3,0,vitoria,13432.16118,0.75,1
+2014,Uruguay,URY,Costa Rica,1,3,derrota,21004.10273,0.808,0
+2014,England,GBR,Italy,1,2,derrota,43236.64235,0.924,0
+2014,Ivory Coast,CIV,Japan,2,1,vitoria,4150.413316,0.502,1
+2014,Switzerland,CHE,Ecuador,2,1,vitoria,69019.26094,0.952,1
+2014,France,FRA,Honduras,3,0,vitoria,43562.21508,0.892,1
+2014,Argentina,ARG,Bosnia and Herzegovina,2,1,vitoria,23087.86964,0.846,1
+2014,Germany,DEU,Portugal,4,0,vitoria,51268.8727,0.937,1
+2014,Iran,IRN,Nigeria,0,0,empate,13078.65731,0.773,0
+2014,Ghana,GHA,United States,1,2,derrota,4537.170026,0.6,0
+2014,Belgium,BEL,Algeria,2,1,vitoria,49281.30405,0.921,1
+2014,Brazil,BRA,Mexico,0,0,empate,15454.76924,0.754,0
+2014,Russia,RUS,South Korea,1,1,empate,25127.72727,0.818,0
+2014,Australia,AUS,Netherlands,2,3,derrota,45851.64201,0.931,0
+2014,Spain,ESP,Chile,0,2,derrota,35796.00345,0.884,0
+2014,Cameroon,CMR,Croatia,0,4,derrota,3443.009493,0.551,0
+2014,Colombia,COL,Ivory Coast,2,1,vitoria,13432.16118,0.75,1
+2014,Uruguay,URY,England,2,1,vitoria,21004.10273,0.808,1
+2014,Japan,JPN,Greece,0,0,empate,40482.79312,0.914,0
+2014,Italy,ITA,Costa Rica,0,1,derrota,39490.18497,0.883,0
+2014,Switzerland,CHE,France,2,5,derrota,69019.26094,0.952,0
+2014,Honduras,HND,Ecuador,1,2,derrota,4783.560934,0.606,0
+2014,Argentina,ARG,Iran,1,0,vitoria,23087.86964,0.846,1
+2014,Germany,DEU,Ghana,2,2,empate,51268.8727,0.937,0
+2014,Nigeria,NGA,Bosnia and Herzegovina,1,0,vitoria,5311.162154,0.512,1
+2014,Belgium,BEL,Russia,1,0,vitoria,49281.30405,0.921,1
+2014,South Korea,KOR,Algeria,2,4,derrota,38144.21084,0.906,0
+2014,United States,USA,Portugal,2,2,empate,58314.25546,0.919,0
+2014,Australia,AUS,Spain,0,3,derrota,45851.64201,0.931,0
+2014,Netherlands,NLD,Chile,2,0,vitoria,51659.69255,0.931,1
+2014,Brazil,BRA,Cameroon,4,1,vitoria,15454.76924,0.754,1
+2014,Croatia,HRV,Mexico,1,3,derrota,23578.51131,0.841,0
+2014,Italy,ITA,Uruguay,0,1,derrota,39490.18497,0.883,0
+2014,Costa Rica,CRI,England,0,0,empate,17919.03127,0.796,0
+2014,Japan,JPN,Colombia,1,4,derrota,40482.79312,0.914,0
+2014,Greece,GRC,Ivory Coast,2,1,vitoria,27850.41613,0.879,1
+2014,Nigeria,NGA,Argentina,2,3,derrota,5311.162154,0.512,0
+2014,Bosnia and Herzegovina,BIH,Iran,3,1,vitoria,12166.00844,0.756,1
+2014,Honduras,HND,Switzerland,0,3,derrota,4783.560934,0.606,0
+2014,Ecuador,ECU,France,0,0,empate,11887.546,0.76,0
+2014,United States,USA,Germany,0,1,derrota,58314.25546,0.919,0
+2014,Portugal,PRT,Ghana,2,1,vitoria,29339.43433,0.848,1
+2014,South Korea,KOR,Belgium,0,1,derrota,38144.21084,0.906,0
+2014,Algeria,DZA,Russia,1,1,empate,11242.29072,0.735,0
+2014,Brazil,BRA,Chile,1,1,empate,15454.76924,0.754,0
+2014,Colombia,COL,Uruguay,2,0,vitoria,13432.16118,0.75,1
+2014,Netherlands,NLD,Mexico,2,1,vitoria,51659.69255,0.931,1
+2014,Costa Rica,CRI,Greece,1,1,empate,17919.03127,0.796,0
+2014,France,FRA,Nigeria,2,0,vitoria,43562.21508,0.892,1
+2014,Germany,DEU,Algeria,2,1,vitoria,51268.8727,0.937,1
+2014,Argentina,ARG,Switzerland,1,0,vitoria,23087.86964,0.846,1
+2014,Belgium,BEL,United States,2,1,vitoria,49281.30405,0.921,1
+2014,France,FRA,Germany,0,1,derrota,43562.21508,0.892,0
+2014,Brazil,BRA,Colombia,2,1,vitoria,15454.76924,0.754,1
+2014,Argentina,ARG,Belgium,1,0,vitoria,23087.86964,0.846,1
+2014,Netherlands,NLD,Costa Rica,0,0,empate,51659.69255,0.931,0
+2014,Brazil,BRA,Germany,1,7,derrota,15454.76924,0.754,0
+2014,Netherlands,NLD,Argentina,0,0,empate,51659.69255,0.931,0
+2014,Brazil,BRA,Netherlands,0,3,derrota,15454.76924,0.754,0
+2014,Germany,DEU,Argentina,1,0,vitoria,51268.8727,0.937,1
+2018,Russia,RUS,Saudi Arabia,5,0,vitoria,25977.61212,0.841,1
+2018,Egypt,EGY,Uruguay,0,1,derrota,11079.03334,0.729,0
+2018,Morocco,MAR,Iran,0,1,derrota,7301.739349,0.676,0
+2018,Portugal,PRT,Spain,3,3,empate,33134.17013,0.86,0
+2018,France,FRA,Australia,2,1,vitoria,46162.6579,0.901,1
+2018,Argentina,ARG,Iceland,1,1,empate,21924.73119,0.85,0
+2018,Peru,PER,Denmark,0,1,derrota,12142.66015,0.776,0
+2018,Croatia,HRV,Nigeria,2,0,vitoria,27784.40613,0.856,1
+2018,Costa Rica,CRI,Serbia,0,1,derrota,19562.35999,0.811,0
+2018,Germany,DEU,Mexico,0,1,derrota,54981.27749,0.945,0
+2018,Brazil,BRA,Switzerland,1,1,empate,14258.48421,0.764,0
+2018,Sweden,SWE,South Korea,1,0,vitoria,53050.91638,0.942,1
+2018,Belgium,BEL,Panama,3,0,vitoria,51249.2268,0.933,1
+2018,Tunisia,TUN,England,1,2,derrota,11027.26702,0.743,0
+2018,Colombia,COL,Japan,1,2,derrota,13941.33097,0.763,0
+2018,Poland,POL,Senegal,1,2,derrota,30369.76617,0.877,0
+2018,Russia,RUS,Egypt,3,1,vitoria,25977.61212,0.841,1
+2018,Portugal,PRT,Morocco,1,0,vitoria,33134.17013,0.86,1
+2018,Uruguay,URY,Saudi Arabia,1,0,vitoria,21730.72567,0.819,1
+2018,Iran,IRN,Spain,0,1,derrota,13536.54586,0.787,0
+2018,Denmark,DNK,Australia,1,1,empate,57549.14584,0.942,0
+2018,France,FRA,Peru,1,0,vitoria,46162.6579,0.901,1
+2018,Argentina,ARG,Croatia,0,3,derrota,21924.73119,0.85,0
+2018,Brazil,BRA,Costa Rica,2,0,vitoria,14258.48421,0.764,1
+2018,Nigeria,NGA,Iceland,2,0,vitoria,4928.925873,0.531,1
+2018,Serbia,SRB,Switzerland,1,2,derrota,16565.63064,0.808,0
+2018,Belgium,BEL,Tunisia,5,2,vitoria,51249.2268,0.933,1
+2018,South Korea,KOR,Mexico,1,2,derrota,42115.21132,0.919,0
+2018,Germany,DEU,Sweden,2,1,vitoria,54981.27749,0.945,1
+2018,England,GBR,Panama,6,1,vitoria,46225.87833,0.929,1
+2018,Japan,JPN,Senegal,2,2,empate,43086.85266,0.923,0
+2018,Poland,POL,Colombia,0,3,derrota,30369.76617,0.877,0
+2018,Russia,RUS,Uruguay,0,3,derrota,25977.61212,0.841,0
+2018,Saudi Arabia,SAU,Egypt,2,1,vitoria,48123.7529,0.865,1
+2018,Spain,ESP,Morocco,2,2,empate,40234.64314,0.901,0
+2018,Iran,IRN,Portugal,1,1,empate,13536.54586,0.787,0
+2018,Australia,AUS,Peru,0,2,derrota,47487.64407,0.941,0
+2018,Denmark,DNK,France,0,0,empate,57549.14584,0.942,0
+2018,Nigeria,NGA,Argentina,1,2,derrota,4928.925873,0.531,0
+2018,Iceland,ISL,Croatia,1,2,derrota,56492.26004,0.959,0
+2018,South Korea,KOR,Germany,2,0,vitoria,42115.21132,0.919,1
+2018,Mexico,MEX,Sweden,0,3,derrota,19385.89225,0.777,0
+2018,Serbia,SRB,Brazil,0,2,derrota,16565.63064,0.808,0
+2018,Switzerland,CHE,Costa Rica,2,2,empate,67771.6548,0.959,0
+2018,Japan,JPN,Poland,0,1,derrota,43086.85266,0.923,0
+2018,Senegal,SEN,Colombia,0,1,derrota,3224.813134,0.512,0
+2018,Panama,PAN,Tunisia,1,2,derrota,28869.22802,0.814,0
+2018,England,GBR,Belgium,0,1,derrota,46225.87833,0.929,0
+2018,France,FRA,Argentina,4,3,vitoria,46162.6579,0.901,1
+2018,Uruguay,URY,Portugal,2,1,vitoria,21730.72567,0.819,1
+2018,Russia,RUS,Spain,1,1,empate,25977.61212,0.841,0
+2018,Croatia,HRV,Denmark,1,1,empate,27784.40613,0.856,0
+2018,Brazil,BRA,Mexico,2,0,vitoria,14258.48421,0.764,1
+2018,Belgium,BEL,Japan,3,2,vitoria,51249.2268,0.933,1
+2018,Sweden,SWE,Switzerland,1,0,vitoria,53050.91638,0.942,1
+2018,Colombia,COL,England,1,1,empate,13941.33097,0.763,0
+2018,Uruguay,URY,France,0,2,derrota,21730.72567,0.819,0
+2018,Brazil,BRA,Belgium,1,2,derrota,14258.48421,0.764,0
+2018,Sweden,SWE,England,0,2,derrota,53050.91638,0.942,0
+2018,Russia,RUS,Croatia,2,2,empate,25977.61212,0.841,0
+2018,France,FRA,Belgium,1,0,vitoria,46162.6579,0.901,1
+2018,Croatia,HRV,England,2,1,vitoria,27784.40613,0.856,1
+2018,Belgium,BEL,England,2,0,vitoria,51249.2268,0.933,1
+2018,France,FRA,Croatia,4,2,vitoria,46162.6579,0.901,1
+1990,Cameroon,CMR,Argentina,1,0,vitoria,3262.451152,0.452,1
+1990,Romania,ROU,Russia,2,0,vitoria,13289.95661,0.703,1
+1990,Colombia,COL,United Arab Emirates,2,0,vitoria,7932.945509,0.61,1
+1990,Austria,AUT,Italy,0,1,derrota,38902.26267,0.825,0
+1990,Czechoslovakia,CZE,United States,5,1,vitoria,22486.80598,0.742,1
+1990,Sweden,SWE,Brazil,1,2,derrota,35365.03368,0.81,0
+1990,Yugoslavia,SRB,Germany,1,4,derrota,,,0
+1990,Scotland,GBR,Costa Rica,0,1,derrota,30951.71296,0.804,0
+1990,Republic of Ireland,IRL,England,1,1,empate,23391.17612,0.737,0
+1990,South Korea,KOR,Belgium,0,2,derrota,12641.31667,0.737,0
+1990,Egypt,EGY,Netherlands,1,1,empate,5930.181584,0.572,0
+1990,Spain,ESP,Uruguay,0,0,empate,26586.92295,0.757,0
+1990,Russia,RUS,Argentina,0,2,derrota,21447.82461,0.743,0
+1990,Romania,ROU,Cameroon,1,2,derrota,13289.95661,0.703,0
+1990,Colombia,COL,Yugoslavia,0,1,derrota,7932.945509,0.61,0
+1990,United States,USA,Italy,0,1,derrota,39472.3021,0.872,0
+1990,Czechoslovakia,CZE,Austria,1,0,vitoria,22486.80598,0.742,1
+1990,United Arab Emirates,ARE,Germany,1,5,derrota,102433.136,0.728,0
+1990,Costa Rica,CRI,Brazil,0,1,derrota,9497.759187,0.66,0
+1990,Scotland,GBR,Sweden,2,1,vitoria,30951.71296,0.804,1
+1990,Netherlands,NLD,England,0,0,empate,36296.26729,0.847,0
+1990,Egypt,EGY,Republic of Ireland,0,0,empate,5930.181584,0.572,0
+1990,Spain,ESP,South Korea,3,1,vitoria,26586.92295,0.757,1
+1990,Uruguay,URY,Belgium,1,3,derrota,10699.72084,0.701,0
+1990,Romania,ROU,Argentina,1,1,empate,13289.95661,0.703,0
+1990,Russia,RUS,Cameroon,4,0,vitoria,21447.82461,0.743,1
+1990,Colombia,COL,Germany,1,1,empate,7932.945509,0.61,0
+1990,United Arab Emirates,ARE,Yugoslavia,1,4,derrota,102433.136,0.728,0
+1990,Czechoslovakia,CZE,Italy,0,2,derrota,22486.80598,0.742,0
+1990,United States,USA,Austria,1,2,derrota,39472.3021,0.872,0
+1990,Scotland,GBR,Brazil,0,1,derrota,30951.71296,0.804,0
+1990,Costa Rica,CRI,Sweden,2,1,vitoria,9497.759187,0.66,1
+1990,Uruguay,URY,South Korea,1,0,vitoria,10699.72084,0.701,1
+1990,Spain,ESP,Belgium,2,1,vitoria,26586.92295,0.757,1
+1990,Netherlands,NLD,Republic of Ireland,1,1,empate,36296.26729,0.847,0
+1990,Egypt,EGY,England,0,1,derrota,5930.181584,0.572,0
+1990,Colombia,COL,Cameroon,1,2,derrota,7932.945509,0.61,0
+1990,Costa Rica,CRI,Czechoslovakia,1,4,derrota,9497.759187,0.66,0
+1990,Argentina,ARG,Brazil,1,0,vitoria,13597.68636,0.723,1
+1990,Netherlands,NLD,Germany,1,2,derrota,36296.26729,0.847,0
+1990,Romania,ROU,Republic of Ireland,0,0,empate,13289.95661,0.703,0
+1990,Uruguay,URY,Italy,0,2,derrota,10699.72084,0.701,0
+1990,Yugoslavia,SRB,Spain,2,1,vitoria,,,1
+1990,Belgium,BEL,England,0,1,derrota,37310.42543,0.816,0
+1990,Argentina,ARG,Yugoslavia,0,0,empate,13597.68636,0.723,0
+1990,Republic of Ireland,IRL,Italy,0,1,derrota,23391.17612,0.737,0
+1990,Czechoslovakia,CZE,Germany,0,1,derrota,22486.80598,0.742,0
+1990,Cameroon,CMR,England,2,3,derrota,3262.451152,0.452,0
+1990,Argentina,ARG,Italy,1,1,empate,13597.68636,0.723,0
+1990,England,GBR,Germany,1,1,empate,30951.71296,0.804,0
+1990,England,GBR,Italy,1,2,derrota,30951.71296,0.804,0
+1990,Argentina,ARG,Germany,0,1,derrota,13597.68636,0.723,0
+1994,Bolivia,BOL,Germany,0,1,derrota,4782.391567,0.587,0
+1994,South Korea,KOR,Spain,2,2,empate,16649.35858,0.773,0
+1994,Switzerland,CHE,United States,1,1,empate,56462.67389,0.863,0
+1994,Republic of Ireland,IRL,Italy,1,0,vitoria,26340.14874,0.771,1
+1994,Romania,ROU,Colombia,3,1,vitoria,11361.39657,0.682,1
+1994,Morocco,MAR,Belgium,0,1,derrota,3986.447718,0.475,0
+1994,Mexico,MEX,Norway,0,1,derrota,15693.75777,0.674,0
+1994,Sweden,SWE,Cameroon,2,2,empate,33639.80999,0.851,0
+1994,Russia,RUS,Brazil,0,2,derrota,13825.24638,0.698,0
+1994,Saudi Arabia,SAU,Netherlands,1,2,derrota,44036.64032,0.704,0
+1994,Greece,GRC,Argentina,0,4,derrota,24660.63167,0.774,0
+1994,Spain,ESP,Germany,1,1,empate,27291.10724,0.789,0
+1994,Bulgaria,BGR,Nigeria,0,3,derrota,11071.07509,0.691,0
+1994,Switzerland,CHE,Romania,4,1,vitoria,56462.67389,0.863,1
+1994,Colombia,COL,United States,1,2,derrota,8940.705583,0.64,0
+1994,Norway,NOR,Italy,0,1,derrota,39504.12494,0.873,0
+1994,Bolivia,BOL,South Korea,0,0,empate,4782.391567,0.587,0
+1994,Republic of Ireland,IRL,Mexico,1,2,derrota,26340.14874,0.771,0
+1994,Cameroon,CMR,Brazil,0,3,derrota,2511.078298,0.436,0
+1994,Russia,RUS,Sweden,1,3,derrota,13825.24638,0.698,0
+1994,Netherlands,NLD,Belgium,0,1,derrota,38615.60382,0.881,0
+1994,Morocco,MAR,Saudi Arabia,1,2,derrota,3986.447718,0.475,0
+1994,Nigeria,NGA,Argentina,1,2,derrota,2765.381452,,0
+1994,Greece,GRC,Bulgaria,0,4,derrota,24660.63167,0.774,0
+1994,Romania,ROU,United States,1,0,vitoria,11361.39657,0.682,1
+1994,Colombia,COL,Switzerland,2,0,vitoria,8940.705583,0.64,1
+1994,South Korea,KOR,Germany,2,3,derrota,16649.35858,0.773,0
+1994,Spain,ESP,Bolivia,3,1,vitoria,27291.10724,0.789,1
+1994,Norway,NOR,Republic of Ireland,0,0,empate,39504.12494,0.873,0
+1994,Mexico,MEX,Italy,1,1,empate,15693.75777,0.674,0
+1994,Sweden,SWE,Brazil,1,1,empate,33639.80999,0.851,0
+1994,Cameroon,CMR,Russia,1,6,derrota,2511.078298,0.436,0
+1994,Netherlands,NLD,Morocco,2,1,vitoria,38615.60382,0.881,1
+1994,Saudi Arabia,SAU,Belgium,1,0,vitoria,44036.64032,0.704,1
+1994,Nigeria,NGA,Greece,2,0,vitoria,2765.381452,,1
+1994,Bulgaria,BGR,Argentina,2,0,vitoria,11071.07509,0.691,1
+1994,Belgium,BEL,Germany,2,3,derrota,39684.17044,0.858,0
+1994,Switzerland,CHE,Spain,0,3,derrota,56462.67389,0.863,0
+1994,Sweden,SWE,Saudi Arabia,3,1,vitoria,33639.80999,0.851,1
+1994,Argentina,ARG,Romania,2,3,derrota,17874.84399,0.744,0
+1994,Republic of Ireland,IRL,Netherlands,0,2,derrota,26340.14874,0.771,0
+1994,Brazil,BRA,United States,1,0,vitoria,10554.70878,0.638,1
+1994,Italy,ITA,Nigeria,2,1,vitoria,37314.22695,0.804,1
+1994,Bulgaria,BGR,Mexico,1,1,empate,11071.07509,0.691,0
+1994,Spain,ESP,Italy,1,2,derrota,27291.10724,0.789,0
+1994,Brazil,BRA,Netherlands,3,2,vitoria,10554.70878,0.638,1
+1994,Germany,DEU,Bulgaria,1,2,derrota,38764.17249,0.858,0
+1994,Sweden,SWE,Romania,2,2,empate,33639.80999,0.851,0
+1994,Italy,ITA,Bulgaria,2,1,vitoria,37314.22695,0.804,1
+1994,Brazil,BRA,Sweden,1,0,vitoria,10554.70878,0.638,1
+1994,Bulgaria,BGR,Sweden,0,4,derrota,11071.07509,0.691,0
+1994,Italy,ITA,Brazil,0,0,empate,37314.22695,0.804,0
+1998,Scotland,GBR,Brazil,1,2,derrota,35707.68553,0.848,0
+1998,Norway,NOR,Morocco,2,2,empate,45662.82229,0.895,0
+1998,Chile,CHL,Italy,2,2,empate,14996.25315,0.749,0
+1998,Austria,AUT,Cameroon,1,1,empate,44553.74381,0.863,0
+1998,Bulgaria,BGR,Paraguay,0,0,empate,10910.83622,0.716,0
+1998,Denmark,DNK,Saudi Arabia,1,0,vitoria,43710.75025,0.876,1
+1998,South Africa,ZAF,France,0,3,derrota,10443.91836,0.644,0
+1998,Nigeria,NGA,Spain,3,2,vitoria,2803.733211,,1
+1998,Mexico,MEX,South Korea,3,1,vitoria,16530.8313,0.696,1
+1998,Belgium,BEL,Netherlands,0,0,empate,42943.50772,0.878,0
+1998,Japan,JPN,Argentina,0,1,derrota,37789.3161,0.871,0
+1998,Iran,IRN,Yugoslavia,0,1,derrota,9667.874268,0.669,0
+1998,Croatia,HRV,Jamaica,3,1,vitoria,17628.52739,0.742,1
+1998,Tunisia,TUN,England,0,2,derrota,6987.206164,0.639,0
+1998,Colombia,COL,Romania,0,1,derrota,9318.106668,0.665,0
+1998,United States,USA,Germany,0,2,derrota,47253.20126,0.893,0
+1998,Norway,NOR,Scotland,1,1,empate,45662.82229,0.895,0
+1998,Morocco,MAR,Brazil,0,3,derrota,4265.93096,0.501,0
+1998,Austria,AUT,Chile,1,1,empate,44553.74381,0.863,0
+1998,Cameroon,CMR,Italy,0,3,derrota,2665.582055,0.436,0
+1998,Denmark,DNK,South Africa,1,1,empate,43710.75025,0.876,0
+1998,Saudi Arabia,SAU,France,0,4,derrota,43524.14147,0.727,0
+1998,Bulgaria,BGR,Nigeria,0,1,derrota,10910.83622,0.716,0
+1998,Paraguay,PRY,Spain,0,0,empate,8479.868689,0.644,0
+1998,Croatia,HRV,Japan,1,0,vitoria,17628.52739,0.742,1
+1998,Mexico,MEX,Belgium,2,2,empate,16530.8313,0.696,0
+1998,South Korea,KOR,Netherlands,0,5,derrota,18907.77671,0.804,0
+1998,Yugoslavia,SRB,Germany,2,2,empate,9203.31905,0.687,0
+1998,Jamaica,JAM,Argentina,0,5,derrota,8839.144995,0.666,0
+1998,Iran,IRN,United States,2,1,vitoria,9667.874268,0.669,1
+1998,Tunisia,TUN,Colombia,0,1,derrota,6987.206164,0.639,0
+1998,England,GBR,Romania,1,2,derrota,35707.68553,0.848,0
+1998,Austria,AUT,Italy,1,2,derrota,44553.74381,0.863,0
+1998,Cameroon,CMR,Chile,1,1,empate,2665.582055,0.436,0
+1998,Morocco,MAR,Scotland,3,0,vitoria,4265.93096,0.501,1
+1998,Norway,NOR,Brazil,2,1,vitoria,45662.82229,0.895,1
+1998,Denmark,DNK,France,1,2,derrota,43710.75025,0.876,0
+1998,Saudi Arabia,SAU,South Africa,2,2,empate,43524.14147,0.727,0
+1998,Bulgaria,BGR,Spain,1,6,derrota,10910.83622,0.716,0
+1998,Paraguay,PRY,Nigeria,3,1,vitoria,8479.868689,0.644,1
+1998,South Korea,KOR,Belgium,1,1,empate,18907.77671,0.804,0
+1998,Mexico,MEX,Netherlands,2,2,empate,16530.8313,0.696,0
+1998,Iran,IRN,Germany,0,2,derrota,9667.874268,0.669,0
+1998,Yugoslavia,SRB,United States,1,0,vitoria,9203.31905,0.687,1
+1998,Jamaica,JAM,Japan,2,1,vitoria,8839.144995,0.666,1
+1998,Croatia,HRV,Argentina,0,1,derrota,17628.52739,0.742,0
+1998,Tunisia,TUN,Romania,1,1,empate,6987.206164,0.639,0
+1998,England,GBR,Colombia,2,0,vitoria,35707.68553,0.848,1
+1998,Norway,NOR,Italy,0,1,derrota,45662.82229,0.895,0
+1998,Chile,CHL,Brazil,1,4,derrota,14996.25315,0.749,0
+1998,Paraguay,PRY,France,0,1,derrota,8479.868689,0.644,0
+1998,Denmark,DNK,Nigeria,4,1,vitoria,43710.75025,0.876,1
+1998,Mexico,MEX,Germany,1,2,derrota,16530.8313,0.696,0
+1998,Yugoslavia,SRB,Netherlands,1,2,derrota,9203.31905,0.687,0
+1998,Croatia,HRV,Romania,1,0,vitoria,17628.52739,0.742,1
+1998,England,GBR,Argentina,2,2,empate,35707.68553,0.848,0
+1998,Italy,ITA,France,0,0,empate,41091.27344,0.829,0
+1998,Denmark,DNK,Brazil,2,3,derrota,43710.75025,0.876,0
+1998,Argentina,ARG,Netherlands,1,2,derrota,19427.08332,0.762,0
+1998,Croatia,HRV,Germany,3,0,vitoria,17628.52739,0.742,1
+1998,Netherlands,NLD,Brazil,1,1,empate,44209.7944,0.886,0
+1998,Croatia,HRV,France,1,2,derrota,17628.52739,0.742,0
+1998,Croatia,HRV,Netherlands,2,1,vitoria,17628.52739,0.742,1
+1998,Brazil,BRA,France,0,3,derrota,10889.91945,0.666,0
+2002,Senegal,SEN,France,1,0,vitoria,2548.542269,0.398,1
+2002,Cameroon,CMR,Republic of Ireland,1,1,empate,2805.071743,0.461,0
+2002,Denmark,DNK,Uruguay,2,1,vitoria,46964.49154,0.896,1
+2002,Saudi Arabia,SAU,Germany,0,8,derrota,38447.68497,0.75,0
+2002,Nigeria,NGA,Argentina,0,1,derrota,3191.837532,,0
+2002,South Africa,ZAF,Paraguay,2,2,empate,11214.99293,0.633,0
+2002,Sweden,SWE,England,1,1,empate,42543.37441,0.91,0
+2002,Slovenia,SVN,Spain,1,3,derrota,28341.71764,0.848,0
+2002,Mexico,MEX,Croatia,1,0,vitoria,16899.50116,0.719,1
+2002,Turkey,TUR,Brazil,1,2,derrota,15090.04263,0.684,0
+2002,Ecuador,ECU,Italy,0,2,derrota,8191.207779,0.698,0
+2002,Costa Rica,CRI,China,2,0,vitoria,12476.34459,0.722,1
+2002,Belgium,BEL,Japan,2,2,empate,45852.84486,0.892,0
+2002,Poland,POL,South Korea,0,2,derrota,16740.2735,0.806,0
+2002,Tunisia,TUN,Russia,0,2,derrota,7829.054562,0.67,0
+2002,Portugal,PRT,United States,2,3,derrota,29484.44685,0.798,0
+2002,Republic of Ireland,IRL,Germany,1,1,empate,42417.42304,0.864,0
+2002,Senegal,SEN,Denmark,1,1,empate,2548.542269,0.398,0
+2002,Saudi Arabia,SAU,Cameroon,0,1,derrota,38447.68497,0.75,0
+2002,Uruguay,URY,France,0,0,empate,12897.16027,0.764,0
+2002,Nigeria,NGA,Sweden,1,2,derrota,3191.837532,,0
+2002,Paraguay,PRY,Spain,1,3,derrota,7400.037724,0.662,0
+2002,England,GBR,Argentina,1,0,vitoria,39849.42208,0.873,1
+2002,Slovenia,SVN,South Africa,0,1,derrota,28341.71764,0.848,0
+2002,Croatia,HRV,Italy,2,1,vitoria,20441.25459,0.777,1
+2002,China,CHN,Brazil,0,4,derrota,3988.393847,0.604,0
+2002,Ecuador,ECU,Mexico,1,2,derrota,8191.207779,0.698,0
+2002,Turkey,TUR,Costa Rica,1,1,empate,15090.04263,0.684,0
+2002,Russia,RUS,Japan,0,1,derrota,15886.59368,0.746,0
+2002,United States,USA,South Korea,1,1,empate,50936.99207,0.893,0
+2002,Belgium,BEL,Tunisia,1,1,empate,45852.84486,0.892,0
+2002,Poland,POL,Portugal,0,4,derrota,16740.2735,0.806,0
+2002,France,FRA,Denmark,0,2,derrota,40731.98644,0.848,0
+2002,Uruguay,URY,Senegal,3,3,empate,12897.16027,0.764,0
+2002,Republic of Ireland,IRL,Saudi Arabia,3,0,vitoria,42417.42304,0.864,1
+2002,Germany,DEU,Cameroon,2,0,vitoria,42877.62022,0.901,1
+2002,Argentina,ARG,Sweden,1,1,empate,14727.85071,0.785,0
+2002,England,GBR,Nigeria,0,0,empate,39849.42208,0.873,0
+2002,Paraguay,PRY,Slovenia,3,1,vitoria,7400.037724,0.662,1
+2002,Spain,ESP,South Africa,3,2,vitoria,35942.07889,0.834,1
+2002,Brazil,BRA,Costa Rica,5,2,vitoria,11415.26383,0.692,1
+2002,China,CHN,Turkey,0,3,derrota,3988.393847,0.604,0
+2002,Croatia,HRV,Ecuador,0,1,derrota,20441.25459,0.777,0
+2002,Italy,ITA,Mexico,1,1,empate,43948.71871,0.853,0
+2002,Tunisia,TUN,Japan,0,2,derrota,7829.054562,0.67,0
+2002,Russia,RUS,Belgium,2,3,derrota,15886.59368,0.746,0
+2002,Portugal,PRT,South Korea,0,1,derrota,29484.44685,0.798,0
+2002,United States,USA,Poland,1,3,derrota,50936.99207,0.893,0
+2002,Paraguay,PRY,Germany,0,1,derrota,7400.037724,0.662,0
+2002,England,GBR,Denmark,3,0,vitoria,39849.42208,0.873,1
+2002,Senegal,SEN,Sweden,2,1,vitoria,2548.542269,0.398,1
+2002,Republic of Ireland,IRL,Spain,1,1,empate,42417.42304,0.864,0
+2002,United States,USA,Mexico,2,0,vitoria,50936.99207,0.893,1
+2002,Belgium,BEL,Brazil,0,2,derrota,45852.84486,0.892,0
+2002,Turkey,TUR,Japan,1,0,vitoria,15090.04263,0.684,1
+2002,Italy,ITA,South Korea,1,2,derrota,43948.71871,0.853,0
+2002,Brazil,BRA,England,2,1,vitoria,11415.26383,0.692,1
+2002,United States,USA,Germany,0,1,derrota,50936.99207,0.893,0
+2002,Spain,ESP,South Korea,0,0,empate,35942.07889,0.834,0
+2002,Turkey,TUR,Senegal,1,0,vitoria,15090.04263,0.684,1
+2002,Germany,DEU,South Korea,1,0,vitoria,42877.62022,0.901,1
+2002,Turkey,TUR,Brazil,0,1,derrota,15090.04263,0.684,0
+2002,Turkey,TUR,South Korea,3,2,vitoria,15090.04263,0.684,1
+2002,Brazil,BRA,Germany,2,0,vitoria,11415.26383,0.692,1
+2006,Costa Rica,CRI,Germany,2,4,derrota,14575.16346,0.747,0
+2006,Ecuador,ECU,Poland,2,0,vitoria,9385.692493,0.72,1
+2006,Paraguay,PRY,England,0,1,derrota,7967.30967,0.664,0
+2006,Sweden,SWE,Trinidad and Tobago,0,0,empate,48497.11531,0.906,0
+2006,Ivory Coast,CIV,Argentina,1,2,derrota,2529.149232,0.458,0
+2006,Netherlands,NLD,Serbia,1,0,vitoria,52037.50952,0.906,1
+2006,Iran,IRN,Mexico,1,3,derrota,12465.95662,0.727,0
+2006,Portugal,PRT,Angola,1,0,vitoria,29778.5573,0.811,1
+2006,Japan,JPN,Australia,1,3,derrota,40407.54524,0.892,0
+2006,Czech Republic,CZE,United States,3,0,vitoria,30366.83164,0.852,1
+2006,Ghana,GHA,Italy,0,2,derrota,3260.440634,0.54,0
+2006,Togo,TGO,South Korea,1,2,derrota,1549.220448,0.464,0
+2006,Switzerland,CHE,France,0,0,empate,69488.94513,0.914,0
+2006,Croatia,HRV,Brazil,0,1,derrota,24318.48786,0.811,0
+2006,Ukraine,UKR,Spain,0,4,derrota,11674.10072,0.751,0
+2006,Saudi Arabia,SAU,Tunisia,2,2,empate,44807.12574,0.787,0
+2006,Poland,POL,Germany,0,1,derrota,19685.71892,0.82,0
+2006,Costa Rica,CRI,Ecuador,0,3,derrota,14575.16346,0.747,0
+2006,Trinidad and Tobago,TTO,England,0,2,derrota,26206.36859,0.767,0
+2006,Paraguay,PRY,Sweden,0,1,derrota,7967.30967,0.664,0
+2006,Serbia,SRB,Argentina,0,6,derrota,12795.25716,0.746,0
+2006,Ivory Coast,CIV,Netherlands,1,2,derrota,2529.149232,0.458,0
+2006,Angola,AGO,Mexico,0,0,empate,5672.126464,0.459,0
+2006,Iran,IRN,Portugal,0,2,derrota,12465.95662,0.727,0
+2006,Ghana,GHA,Czech Republic,2,0,vitoria,3260.440634,0.54,1
+2006,United States,USA,Italy,1,1,empate,55681.43355,0.904,0
+2006,Croatia,HRV,Japan,0,0,empate,24318.48786,0.811,0
+2006,Australia,AUS,Brazil,0,2,derrota,41648.29006,0.914,0
+2006,South Korea,KOR,France,1,1,empate,29901.61423,0.866,0
+2006,Switzerland,CHE,Togo,2,0,vitoria,69488.94513,0.914,1
+2006,Ukraine,UKR,Saudi Arabia,4,0,vitoria,11674.10072,0.751,1
+2006,Tunisia,TUN,Spain,1,3,derrota,9152.383855,0.7,0
+2006,Ecuador,ECU,Germany,0,3,derrota,9385.692493,0.72,0
+2006,Poland,POL,Costa Rica,2,1,vitoria,19685.71892,0.82,1
+2006,England,GBR,Sweden,2,2,empate,43021.0528,0.894,0
+2006,Trinidad and Tobago,TTO,Paraguay,0,2,derrota,26206.36859,0.767,0
+2006,Angola,AGO,Iran,1,1,empate,5672.126464,0.459,0
+2006,Mexico,MEX,Portugal,1,2,derrota,18033.14918,0.741,0
+2006,Argentina,ARG,Netherlands,0,0,empate,20131.40256,0.814,0
+2006,Serbia,SRB,Ivory Coast,2,3,derrota,12795.25716,0.746,0
+2006,Italy,ITA,Czech Republic,2,0,vitoria,44658.82268,0.873,1
+2006,United States,USA,Ghana,1,2,derrota,55681.43355,0.904,0
+2006,Brazil,BRA,Japan,4,1,vitoria,12605.81821,0.7,1
+2006,Australia,AUS,Croatia,2,2,empate,41648.29006,0.914,0
+2006,Tunisia,TUN,Ukraine,0,1,derrota,9152.383855,0.7,0
+2006,Spain,ESP,Saudi Arabia,1,0,vitoria,38471.31913,0.856,1
+2006,France,FRA,Togo,2,0,vitoria,42662.02398,0.87,1
+2006,South Korea,KOR,Switzerland,0,2,derrota,29901.61423,0.866,0
+2006,Sweden,SWE,Germany,0,2,derrota,48497.11531,0.906,0
+2006,Mexico,MEX,Argentina,1,2,derrota,18033.14918,0.741,0
+2006,Ecuador,ECU,England,0,1,derrota,9385.692493,0.72,0
+2006,Netherlands,NLD,Portugal,0,1,derrota,52037.50952,0.906,0
+2006,Australia,AUS,Italy,0,1,derrota,41648.29006,0.914,0
+2006,Ukraine,UKR,Switzerland,0,0,empate,11674.10072,0.751,0
+2006,Ghana,GHA,Brazil,0,3,derrota,3260.440634,0.54,0
+2006,France,FRA,Spain,3,1,vitoria,42662.02398,0.87,1
+2006,Argentina,ARG,Germany,1,1,empate,20131.40256,0.814,0
+2006,Ukraine,UKR,Italy,0,3,derrota,11674.10072,0.751,0
+2006,Portugal,PRT,England,0,0,empate,29778.5573,0.811,0
+2006,France,FRA,Brazil,1,0,vitoria,42662.02398,0.87,1
+2006,Italy,ITA,Germany,2,0,vitoria,44658.82268,0.873,1
+2006,France,FRA,Portugal,1,0,vitoria,42662.02398,0.87,1
+2006,Portugal,PRT,Germany,1,3,derrota,29778.5573,0.811,0
+2006,France,FRA,Italy,1,1,empate,42662.02398,0.87,0
+2010,Mexico,MEX,South Africa,1,1,empate,17575.83104,0.746,0
+2010,France,FRA,Uruguay,0,0,empate,42771.58715,0.877,0
+2010,Greece,GRC,South Korea,0,2,derrota,32426.75908,0.869,0
+2010,Nigeria,NGA,Argentina,0,1,derrota,4635.558111,0.482,0
+2010,United States,USA,England,1,1,empate,54265.33606,0.911,0
+2010,Slovenia,SVN,Algeria,1,0,vitoria,32747.03725,0.89,1
+2010,Ghana,GHA,Serbia,1,0,vitoria,3757.458926,0.574,1
+2010,Australia,AUS,Germany,0,4,derrota,42840.45928,0.923,0
+2010,Denmark,DNK,Netherlands,0,2,derrota,51409.125,0.913,0
+2010,Cameroon,CMR,Japan,0,1,derrota,3193.326015,0.513,0
+2010,Paraguay,PRY,Italy,1,1,empate,9908.752523,0.685,0
+2010,Slovakia,SVK,New Zealand,1,1,empate,26036.87643,0.84,0
+2010,Portugal,PRT,Ivory Coast,0,0,empate,30139.45026,0.829,0
+2010,North Korea,PRK,Brazil,1,2,derrota,,,0
+2010,Chile,CHL,Honduras,1,0,vitoria,19744.92469,0.813,1
+2010,Switzerland,CHE,Spain,1,0,vitoria,71188.41857,0.942,1
+2010,Uruguay,URY,South Africa,3,0,vitoria,18614.31477,0.787,1
+2010,South Korea,KOR,Argentina,1,4,derrota,34443.54124,0.89,0
+2010,Nigeria,NGA,Greece,1,2,derrota,4635.558111,0.482,0
+2010,Mexico,MEX,France,2,0,vitoria,17575.83104,0.746,1
+2010,Serbia,SRB,Germany,1,0,vitoria,14211.49905,0.767,1
+2010,United States,USA,Slovenia,2,2,empate,54265.33606,0.911,0
+2010,Algeria,DZA,England,0,0,empate,10918.46514,0.721,0
+2010,Japan,JPN,Netherlands,0,1,derrota,39152.92818,0.898,0
+2010,Australia,AUS,Ghana,1,1,empate,42840.45928,0.923,0
+2010,Denmark,DNK,Cameroon,2,1,vitoria,51409.125,0.913,1
+2010,Paraguay,PRY,Slovakia,2,0,vitoria,9908.752523,0.685,1
+2010,New Zealand,NZL,Italy,1,1,empate,34114.89481,0.922,0
+2010,Ivory Coast,CIV,Brazil,1,3,derrota,2702.006924,0.473,0
+2010,North Korea,PRK,Portugal,0,7,derrota,,,0
+2010,Switzerland,CHE,Chile,0,1,derrota,71188.41857,0.942,0
+2010,Honduras,HND,Spain,0,2,derrota,4647.567903,0.597,0
+2010,Uruguay,URY,Mexico,1,0,vitoria,18614.31477,0.787,1
+2010,France,FRA,South Africa,1,2,derrota,42771.58715,0.877,0
+2010,South Korea,KOR,Nigeria,2,2,empate,34443.54124,0.89,0
+2010,Argentina,ARG,Greece,2,0,vitoria,22734.96712,0.834,1
+2010,England,GBR,Slovenia,1,0,vitoria,41666.51526,0.912,1
+2010,Algeria,DZA,United States,0,1,derrota,10918.46514,0.721,0
+2010,Germany,DEU,Ghana,1,0,vitoria,47554.22563,0.926,1
+2010,Serbia,SRB,Australia,1,2,derrota,14211.49905,0.767,0
+2010,Italy,ITA,Slovakia,2,3,derrota,42150.60535,0.882,0
+2010,New Zealand,NZL,Paraguay,0,0,empate,34114.89481,0.922,0
+2010,Japan,JPN,Denmark,3,1,vitoria,39152.92818,0.898,1
+2010,Netherlands,NLD,Cameroon,2,1,vitoria,52227.99073,0.917,1
+2010,Brazil,BRA,Portugal,0,0,empate,14414.12776,0.723,0
+2010,Ivory Coast,CIV,North Korea,3,0,vitoria,2702.006924,0.473,1
+2010,Spain,ESP,Chile,2,1,vitoria,37173.6819,0.868,1
+2010,Honduras,HND,Switzerland,0,0,empate,4647.567903,0.597,0
+2010,South Korea,KOR,Uruguay,1,2,derrota,34443.54124,0.89,0
+2010,Ghana,GHA,United States,2,1,vitoria,3757.458926,0.574,1
+2010,England,GBR,Germany,1,4,derrota,41666.51526,0.912,0
+2010,Mexico,MEX,Argentina,1,3,derrota,17575.83104,0.746,0
+2010,Slovakia,SVK,Netherlands,1,2,derrota,26036.87643,0.84,0
+2010,Chile,CHL,Brazil,0,3,derrota,19744.92469,0.813,0
+2010,Japan,JPN,Paraguay,0,0,empate,39152.92818,0.898,0
+2010,Portugal,PRT,Spain,0,1,derrota,30139.45026,0.829,0
+2010,Brazil,BRA,Netherlands,1,2,derrota,14414.12776,0.723,0
+2010,Ghana,GHA,Uruguay,1,1,empate,3757.458926,0.574,0
+2010,Germany,DEU,Argentina,4,0,vitoria,47554.22563,0.926,1
+2010,Spain,ESP,Paraguay,1,0,vitoria,37173.6819,0.868,1
+2010,Netherlands,NLD,Uruguay,3,2,vitoria,52227.99073,0.917,1
+2010,Spain,ESP,Germany,1,0,vitoria,37173.6819,0.868,1
+2010,Germany,DEU,Uruguay,3,2,vitoria,47554.22563,0.926,1
+2010,Spain,ESP,Netherlands,1,0,vitoria,37173.6819,0.868,1
+2014,Croatia,HRV,Brazil,1,3,derrota,23578.51131,0.841,0
+2014,Cameroon,CMR,Mexico,0,1,derrota,3443.009493,0.551,0
+2014,Netherlands,NLD,Spain,5,1,vitoria,51659.69255,0.931,1
+2014,Australia,AUS,Chile,1,3,derrota,45851.64201,0.931,0
+2014,Greece,GRC,Colombia,0,3,derrota,27850.41613,0.879,0
+2014,Costa Rica,CRI,Uruguay,3,1,vitoria,17919.03127,0.796,1
+2014,Italy,ITA,England,2,1,vitoria,39490.18497,0.883,1
+2014,Japan,JPN,Ivory Coast,1,2,derrota,40482.79312,0.914,0
+2014,Ecuador,ECU,Switzerland,1,2,derrota,11887.546,0.76,0
+2014,Honduras,HND,France,0,3,derrota,4783.560934,0.606,0
+2014,Bosnia and Herzegovina,BIH,Argentina,1,2,derrota,12166.00844,0.756,0
+2014,Portugal,PRT,Germany,0,4,derrota,29339.43433,0.848,0
+2014,Nigeria,NGA,Iran,0,0,empate,5311.162154,0.512,0
+2014,United States,USA,Ghana,2,1,vitoria,58314.25546,0.919,1
+2014,Algeria,DZA,Belgium,1,2,derrota,11242.29072,0.735,0
+2014,Mexico,MEX,Brazil,0,0,empate,18423.54338,0.764,0
+2014,South Korea,KOR,Russia,1,1,empate,38144.21084,0.906,0
+2014,Netherlands,NLD,Australia,3,2,vitoria,51659.69255,0.931,1
+2014,Chile,CHL,Spain,2,0,vitoria,23261.50787,0.841,1
+2014,Croatia,HRV,Cameroon,4,0,vitoria,23578.51131,0.841,1
+2014,Ivory Coast,CIV,Colombia,1,2,derrota,4150.413316,0.502,0
+2014,England,GBR,Uruguay,1,2,derrota,43236.64235,0.924,0
+2014,Greece,GRC,Japan,0,0,empate,27850.41613,0.879,0
+2014,Costa Rica,CRI,Italy,1,0,vitoria,17919.03127,0.796,1
+2014,France,FRA,Switzerland,5,2,vitoria,43562.21508,0.892,1
+2014,Ecuador,ECU,Honduras,2,1,vitoria,11887.546,0.76,1
+2014,Iran,IRN,Argentina,0,1,derrota,13078.65731,0.773,0
+2014,Ghana,GHA,Germany,2,2,empate,4537.170026,0.6,0
+2014,Bosnia and Herzegovina,BIH,Nigeria,0,1,derrota,12166.00844,0.756,0
+2014,Russia,RUS,Belgium,0,1,derrota,25127.72727,0.818,0
+2014,Algeria,DZA,South Korea,4,2,vitoria,11242.29072,0.735,1
+2014,Portugal,PRT,United States,2,2,empate,29339.43433,0.848,0
+2014,Spain,ESP,Australia,3,0,vitoria,35796.00345,0.884,1
+2014,Chile,CHL,Netherlands,0,2,derrota,23261.50787,0.841,0
+2014,Cameroon,CMR,Brazil,1,4,derrota,3443.009493,0.551,0
+2014,Mexico,MEX,Croatia,3,1,vitoria,18423.54338,0.764,1
+2014,Uruguay,URY,Italy,1,0,vitoria,21004.10273,0.808,1
+2014,England,GBR,Costa Rica,0,0,empate,43236.64235,0.924,0
+2014,Colombia,COL,Japan,4,1,vitoria,13432.16118,0.75,1
+2014,Ivory Coast,CIV,Greece,1,2,derrota,4150.413316,0.502,0
+2014,Argentina,ARG,Nigeria,3,2,vitoria,23087.86964,0.846,1
+2014,Iran,IRN,Bosnia and Herzegovina,1,3,derrota,13078.65731,0.773,0
+2014,Switzerland,CHE,Honduras,3,0,vitoria,69019.26094,0.952,1
+2014,France,FRA,Ecuador,0,0,empate,43562.21508,0.892,0
+2014,Germany,DEU,United States,1,0,vitoria,51268.8727,0.937,1
+2014,Ghana,GHA,Portugal,1,2,derrota,4537.170026,0.6,0
+2014,Belgium,BEL,South Korea,1,0,vitoria,49281.30405,0.921,1
+2014,Russia,RUS,Algeria,1,1,empate,25127.72727,0.818,0
+2014,Chile,CHL,Brazil,1,1,empate,23261.50787,0.841,0
+2014,Uruguay,URY,Colombia,0,2,derrota,21004.10273,0.808,0
+2014,Mexico,MEX,Netherlands,1,2,derrota,18423.54338,0.764,0
+2014,Greece,GRC,Costa Rica,1,1,empate,27850.41613,0.879,0
+2014,Nigeria,NGA,France,0,2,derrota,5311.162154,0.512,0
+2014,Algeria,DZA,Germany,1,2,derrota,11242.29072,0.735,0
+2014,Switzerland,CHE,Argentina,0,1,derrota,69019.26094,0.952,0
+2014,United States,USA,Belgium,1,2,derrota,58314.25546,0.919,0
+2014,Germany,DEU,France,1,0,vitoria,51268.8727,0.937,1
+2014,Colombia,COL,Brazil,1,2,derrota,13432.16118,0.75,0
+2014,Belgium,BEL,Argentina,0,1,derrota,49281.30405,0.921,0
+2014,Costa Rica,CRI,Netherlands,0,0,empate,17919.03127,0.796,0
+2014,Germany,DEU,Brazil,7,1,vitoria,51268.8727,0.937,1
+2014,Argentina,ARG,Netherlands,0,0,empate,23087.86964,0.846,0
+2014,Netherlands,NLD,Brazil,3,0,vitoria,51659.69255,0.931,1
+2014,Argentina,ARG,Germany,0,1,derrota,23087.86964,0.846,0
+2018,Saudi Arabia,SAU,Russia,0,5,derrota,48123.7529,0.865,0
+2018,Uruguay,URY,Egypt,1,0,vitoria,21730.72567,0.819,1
+2018,Iran,IRN,Morocco,1,0,vitoria,13536.54586,0.787,1
+2018,Spain,ESP,Portugal,3,3,empate,40234.64314,0.901,0
+2018,Australia,AUS,France,1,2,derrota,47487.64407,0.941,0
+2018,Iceland,ISL,Argentina,1,1,empate,56492.26004,0.959,0
+2018,Denmark,DNK,Peru,1,0,vitoria,57549.14584,0.942,1
+2018,Nigeria,NGA,Croatia,0,2,derrota,4928.925873,0.531,0
+2018,Serbia,SRB,Costa Rica,1,0,vitoria,16565.63064,0.808,1
+2018,Mexico,MEX,Germany,1,0,vitoria,19385.89225,0.777,1
+2018,Switzerland,CHE,Brazil,1,1,empate,67771.6548,0.959,0
+2018,South Korea,KOR,Sweden,0,1,derrota,42115.21132,0.919,0
+2018,Panama,PAN,Belgium,0,3,derrota,28869.22802,0.814,0
+2018,England,GBR,Tunisia,2,1,vitoria,46225.87833,0.929,1
+2018,Japan,JPN,Colombia,2,1,vitoria,43086.85266,0.923,1
+2018,Senegal,SEN,Poland,2,1,vitoria,3224.813134,0.512,1
+2018,Egypt,EGY,Russia,1,3,derrota,11079.03334,0.729,0
+2018,Morocco,MAR,Portugal,0,1,derrota,7301.739349,0.676,0
+2018,Saudi Arabia,SAU,Uruguay,0,1,derrota,48123.7529,0.865,0
+2018,Spain,ESP,Iran,1,0,vitoria,40234.64314,0.901,1
+2018,Australia,AUS,Denmark,1,1,empate,47487.64407,0.941,0
+2018,Peru,PER,France,0,1,derrota,12142.66015,0.776,0
+2018,Croatia,HRV,Argentina,3,0,vitoria,27784.40613,0.856,1
+2018,Costa Rica,CRI,Brazil,0,2,derrota,19562.35999,0.811,0
+2018,Iceland,ISL,Nigeria,0,2,derrota,56492.26004,0.959,0
+2018,Switzerland,CHE,Serbia,2,1,vitoria,67771.6548,0.959,1
+2018,Tunisia,TUN,Belgium,2,5,derrota,11027.26702,0.743,0
+2018,Mexico,MEX,South Korea,2,1,vitoria,19385.89225,0.777,1
+2018,Sweden,SWE,Germany,1,2,derrota,53050.91638,0.942,0
+2018,Panama,PAN,England,1,6,derrota,28869.22802,0.814,0
+2018,Senegal,SEN,Japan,2,2,empate,3224.813134,0.512,0
+2018,Colombia,COL,Poland,3,0,vitoria,13941.33097,0.763,1
+2018,Uruguay,URY,Russia,3,0,vitoria,21730.72567,0.819,1
+2018,Egypt,EGY,Saudi Arabia,1,2,derrota,11079.03334,0.729,0
+2018,Morocco,MAR,Spain,2,2,empate,7301.739349,0.676,0
+2018,Portugal,PRT,Iran,1,1,empate,33134.17013,0.86,0
+2018,Peru,PER,Australia,2,0,vitoria,12142.66015,0.776,1
+2018,France,FRA,Denmark,0,0,empate,46162.6579,0.901,0
+2018,Argentina,ARG,Nigeria,2,1,vitoria,21924.73119,0.85,1
+2018,Croatia,HRV,Iceland,2,1,vitoria,27784.40613,0.856,1
+2018,Germany,DEU,South Korea,0,2,derrota,54981.27749,0.945,0
+2018,Sweden,SWE,Mexico,3,0,vitoria,53050.91638,0.942,1
+2018,Brazil,BRA,Serbia,2,0,vitoria,14258.48421,0.764,1
+2018,Costa Rica,CRI,Switzerland,2,2,empate,19562.35999,0.811,0
+2018,Poland,POL,Japan,1,0,vitoria,30369.76617,0.877,1
+2018,Colombia,COL,Senegal,1,0,vitoria,13941.33097,0.763,1
+2018,Tunisia,TUN,Panama,2,1,vitoria,11027.26702,0.743,1
+2018,Belgium,BEL,England,1,0,vitoria,51249.2268,0.933,1
+2018,Argentina,ARG,France,3,4,derrota,21924.73119,0.85,0
+2018,Portugal,PRT,Uruguay,1,2,derrota,33134.17013,0.86,0
+2018,Spain,ESP,Russia,1,1,empate,40234.64314,0.901,0
+2018,Denmark,DNK,Croatia,1,1,empate,57549.14584,0.942,0
+2018,Mexico,MEX,Brazil,0,2,derrota,19385.89225,0.777,0
+2018,Japan,JPN,Belgium,2,3,derrota,43086.85266,0.923,0
+2018,Switzerland,CHE,Sweden,0,1,derrota,67771.6548,0.959,0
+2018,England,GBR,Colombia,1,1,empate,46225.87833,0.929,0
+2018,France,FRA,Uruguay,2,0,vitoria,46162.6579,0.901,1
+2018,Belgium,BEL,Brazil,2,1,vitoria,51249.2268,0.933,1
+2018,England,GBR,Sweden,2,0,vitoria,46225.87833,0.929,1
+2018,Croatia,HRV,Russia,2,2,empate,27784.40613,0.856,0
+2018,Belgium,BEL,France,0,1,derrota,51249.2268,0.933,0
+2018,England,GBR,Croatia,1,2,derrota,46225.87833,0.929,0
+2018,England,GBR,Belgium,0,2,derrota,46225.87833,0.929,0
+2018,Croatia,HRV,France,2,4,derrota,27784.40613,0.856,0

@@ -1,0 +1,489 @@
+ano,fase,time_casa,gols_casa,gols_fora,time_fora,condicao_vitoria,resultado_casa,iso3_casa,iso3_fora,renda_casa,idh_casa,renda_fora,idh_fora,diferenca_renda,resultado_mais_rico
+1990,Group stage,Argentina,0,1,Cameroon,,derrota,ARG,CMR,13597.68636,0.723,3262.451152,0.452,10335.235208,derrota
+1990,Group stage,Russia,0,2,Romania,,derrota,RUS,ROU,21447.82461,0.743,13289.95661,0.703,8157.868,derrota
+1990,Group stage,United Arab Emirates,0,2,Colombia,,derrota,ARE,COL,102433.136,0.728,7932.945509,0.61,94500.190491,derrota
+1990,Group stage,Italy,1,0,Austria,,vitoria,ITA,AUT,36208.56056,0.778,38902.26267,0.825,2693.7021099999984,derrota
+1990,Group stage,United States,1,5,Czechoslovakia,,derrota,USA,CZE,39472.3021,0.872,22486.80598,0.742,16985.49612,derrota
+1990,Group stage,Brazil,2,1,Sweden,,vitoria,BRA,SWE,10253.78902,0.61,35365.03368,0.81,25111.24466,derrota
+1990,Group stage,Germany,4,1,Yugoslavia,,vitoria,DEU,SRB,36587.31592,0.829,,,,
+1990,Group stage,Costa Rica,1,0,Scotland,,vitoria,CRI,GBR,9497.759187,0.66,30951.71296,0.804,21453.953773,derrota
+1990,Group stage,England,1,1,Republic of Ireland,,empate,GBR,IRL,30951.71296,0.804,23391.17612,0.737,7560.536840000001,empate
+1990,Group stage,Belgium,2,0,South Korea,,vitoria,BEL,KOR,37310.42543,0.816,12641.31667,0.737,24669.108760000003,vitoria
+1990,Group stage,Netherlands,1,1,Egypt,,empate,NLD,EGY,36296.26729,0.847,5930.181584,0.572,30366.085706000005,empate
+1990,Group stage,Uruguay,0,0,Spain,,empate,URY,ESP,10699.72084,0.701,26586.92295,0.757,15887.20211,empate
+1990,Group stage,Argentina,2,0,Russia,,vitoria,ARG,RUS,13597.68636,0.723,21447.82461,0.743,7850.13825,derrota
+1990,Group stage,Cameroon,2,1,Romania,,vitoria,CMR,ROU,3262.451152,0.452,13289.95661,0.703,10027.505458,derrota
+1990,Group stage,Yugoslavia,1,0,Colombia,,vitoria,SRB,COL,,,7932.945509,0.61,,
+1990,Group stage,Italy,1,0,United States,,vitoria,ITA,USA,36208.56056,0.778,39472.3021,0.872,3263.7415400000027,derrota
+1990,Group stage,Austria,0,1,Czechoslovakia,,derrota,AUT,CZE,38902.26267,0.825,22486.80598,0.742,16415.456689999995,derrota
+1990,Group stage,Germany,5,1,United Arab Emirates,,vitoria,DEU,ARE,36587.31592,0.829,102433.136,0.728,65845.82008,derrota
+1990,Group stage,Brazil,1,0,Costa Rica,,vitoria,BRA,CRI,10253.78902,0.61,9497.759187,0.66,756.0298330000005,vitoria
+1990,Group stage,Sweden,1,2,Scotland,,derrota,SWE,GBR,35365.03368,0.81,30951.71296,0.804,4413.32072,derrota
+1990,Group stage,England,0,0,Netherlands,,empate,GBR,NLD,30951.71296,0.804,36296.26729,0.847,5344.554330000003,empate
+1990,Group stage,Republic of Ireland,0,0,Egypt,,empate,IRL,EGY,23391.17612,0.737,5930.181584,0.572,17460.994536,empate
+1990,Group stage,South Korea,1,3,Spain,,derrota,KOR,ESP,12641.31667,0.737,26586.92295,0.757,13945.60628,vitoria
+1990,Group stage,Belgium,3,1,Uruguay,,vitoria,BEL,URY,37310.42543,0.816,10699.72084,0.701,26610.70459,vitoria
+1990,Group stage,Argentina,1,1,Romania,,empate,ARG,ROU,13597.68636,0.723,13289.95661,0.703,307.7297500000004,empate
+1990,Group stage,Cameroon,0,4,Russia,,derrota,CMR,RUS,3262.451152,0.452,21447.82461,0.743,18185.373458,vitoria
+1990,Group stage,Germany,1,1,Colombia,,empate,DEU,COL,36587.31592,0.829,7932.945509,0.61,28654.370411,empate
+1990,Group stage,Yugoslavia,4,1,United Arab Emirates,,vitoria,SRB,ARE,,,102433.136,0.728,,
+1990,Group stage,Italy,2,0,Czechoslovakia,,vitoria,ITA,CZE,36208.56056,0.778,22486.80598,0.742,13721.754579999997,vitoria
+1990,Group stage,Austria,2,1,United States,,vitoria,AUT,USA,38902.26267,0.825,39472.3021,0.872,570.0394300000044,derrota
+1990,Group stage,Brazil,1,0,Scotland,,vitoria,BRA,GBR,10253.78902,0.61,30951.71296,0.804,20697.92394,derrota
+1990,Group stage,Sweden,1,2,Costa Rica,,derrota,SWE,CRI,35365.03368,0.81,9497.759187,0.66,25867.274493,derrota
+1990,Group stage,South Korea,0,1,Uruguay,,derrota,KOR,URY,12641.31667,0.737,10699.72084,0.701,1941.5958300000002,derrota
+1990,Group stage,Belgium,1,2,Spain,,derrota,BEL,ESP,37310.42543,0.816,26586.92295,0.757,10723.502480000003,derrota
+1990,Group stage,Republic of Ireland,1,1,Netherlands,,empate,IRL,NLD,23391.17612,0.737,36296.26729,0.847,12905.091170000003,empate
+1990,Group stage,England,1,0,Egypt,,vitoria,GBR,EGY,30951.71296,0.804,5930.181584,0.572,25021.531376,vitoria
+1990,Round of 16,Cameroon,2,1,Colombia,Extra time,vitoria,CMR,COL,3262.451152,0.452,7932.945509,0.61,4670.494357,derrota
+1990,Round of 16,Czechoslovakia,4,1,Costa Rica,,vitoria,CZE,CRI,22486.80598,0.742,9497.759187,0.66,12989.046793000001,vitoria
+1990,Round of 16,Brazil,0,1,Argentina,,derrota,BRA,ARG,10253.78902,0.61,13597.68636,0.723,3343.8973399999995,vitoria
+1990,Round of 16,Germany,2,1,Netherlands,,vitoria,DEU,NLD,36587.31592,0.829,36296.26729,0.847,291.0486299999975,vitoria
+1990,Round of 16,Republic of Ireland,0,0,Romania,Republic of Ireland win on penalties (5 - 4),empate,IRL,ROU,23391.17612,0.737,13289.95661,0.703,10101.21951,empate
+1990,Round of 16,Italy,2,0,Uruguay,,vitoria,ITA,URY,36208.56056,0.778,10699.72084,0.701,25508.839719999996,vitoria
+1990,Round of 16,Spain,1,2,Yugoslavia,Extra time,derrota,ESP,SRB,26586.92295,0.757,,,,
+1990,Round of 16,England,1,0,Belgium,Extra time,vitoria,GBR,BEL,30951.71296,0.804,37310.42543,0.816,6358.712470000002,derrota
+1990,Quarter-finals,Yugoslavia,0,0,Argentina,Argentina win on penalties (2 - 3),empate,SRB,ARG,,,13597.68636,0.723,,
+1990,Quarter-finals,Italy,1,0,Republic of Ireland,,vitoria,ITA,IRL,36208.56056,0.778,23391.17612,0.737,12817.384439999998,vitoria
+1990,Quarter-finals,Germany,1,0,Czechoslovakia,,vitoria,DEU,CZE,36587.31592,0.829,22486.80598,0.742,14100.50994,vitoria
+1990,Quarter-finals,England,3,2,Cameroon,Extra time,vitoria,GBR,CMR,30951.71296,0.804,3262.451152,0.452,27689.261808,vitoria
+1990,Semi-finals,Italy,1,1,Argentina,Argentina win on penalties (3 - 4),empate,ITA,ARG,36208.56056,0.778,13597.68636,0.723,22610.8742,empate
+1990,Semi-finals,Germany,1,1,England,Germany win on penalties (4 - 3),empate,DEU,GBR,36587.31592,0.829,30951.71296,0.804,5635.60296,empate
+1990,Third place,Italy,2,1,England,,vitoria,ITA,GBR,36208.56056,0.778,30951.71296,0.804,5256.847599999997,vitoria
+1990,Final,Germany,1,0,Argentina,,vitoria,DEU,ARG,36587.31592,0.829,13597.68636,0.723,22989.62956,vitoria
+1994,Group stage,Germany,1,0,Bolivia,,vitoria,DEU,BOL,38764.17249,0.858,4782.391567,0.587,33981.780923,vitoria
+1994,Group stage,Spain,2,2,South Korea,,empate,ESP,KOR,27291.10724,0.789,16649.35858,0.773,10641.748660000001,empate
+1994,Group stage,United States,1,1,Switzerland,,empate,USA,CHE,41280.44005,0.884,56462.67389,0.863,15182.23384,empate
+1994,Group stage,Italy,0,1,Republic of Ireland,,derrota,ITA,IRL,37314.22695,0.804,26340.14874,0.771,10974.078209999996,derrota
+1994,Group stage,Colombia,1,3,Romania,,derrota,COL,ROU,8940.705583,0.64,11361.39657,0.682,2420.690987,vitoria
+1994,Group stage,Belgium,1,0,Morocco,,vitoria,BEL,MAR,39684.17044,0.858,3986.447718,0.475,35697.722722,vitoria
+1994,Group stage,Norway,1,0,Mexico,,vitoria,NOR,MEX,39504.12494,0.873,15693.75777,0.674,23810.36717,vitoria
+1994,Group stage,Cameroon,2,2,Sweden,,empate,CMR,SWE,2511.078298,0.436,33639.80999,0.851,31128.731692,empate
+1994,Group stage,Brazil,2,0,Russia,,vitoria,BRA,RUS,10554.70878,0.638,13825.24638,0.698,3270.5375999999997,derrota
+1994,Group stage,Netherlands,2,1,Saudi Arabia,,vitoria,NLD,SAU,38615.60382,0.881,44036.64032,0.704,5421.036500000002,derrota
+1994,Group stage,Argentina,4,0,Greece,,vitoria,ARG,GRC,17874.84399,0.744,24660.63167,0.774,6785.787679999998,derrota
+1994,Group stage,Germany,1,1,Spain,,empate,DEU,ESP,38764.17249,0.858,27291.10724,0.789,11473.065249999996,empate
+1994,Group stage,Nigeria,3,0,Bulgaria,,vitoria,NGA,BGR,2765.381452,,11071.07509,0.691,8305.693638,derrota
+1994,Group stage,Romania,1,4,Switzerland,,derrota,ROU,CHE,11361.39657,0.682,56462.67389,0.863,45101.277319999994,vitoria
+1994,Group stage,United States,2,1,Colombia,,vitoria,USA,COL,41280.44005,0.884,8940.705583,0.64,32339.734466999995,vitoria
+1994,Group stage,Italy,1,0,Norway,,vitoria,ITA,NOR,37314.22695,0.804,39504.12494,0.873,2189.897990000005,derrota
+1994,Group stage,South Korea,0,0,Bolivia,,empate,KOR,BOL,16649.35858,0.773,4782.391567,0.587,11866.967013000001,empate
+1994,Group stage,Mexico,2,1,Republic of Ireland,,vitoria,MEX,IRL,15693.75777,0.674,26340.14874,0.771,10646.39097,derrota
+1994,Group stage,Brazil,3,0,Cameroon,,vitoria,BRA,CMR,10554.70878,0.638,2511.078298,0.436,8043.6304820000005,vitoria
+1994,Group stage,Sweden,3,1,Russia,,vitoria,SWE,RUS,33639.80999,0.851,13825.24638,0.698,19814.56361,vitoria
+1994,Group stage,Belgium,1,0,Netherlands,,vitoria,BEL,NLD,39684.17044,0.858,38615.60382,0.881,1068.566620000005,vitoria
+1994,Group stage,Saudi Arabia,2,1,Morocco,,vitoria,SAU,MAR,44036.64032,0.704,3986.447718,0.475,40050.192601999996,vitoria
+1994,Group stage,Argentina,2,1,Nigeria,,vitoria,ARG,NGA,17874.84399,0.744,2765.381452,,15109.462538000002,vitoria
+1994,Group stage,Bulgaria,4,0,Greece,,vitoria,BGR,GRC,11071.07509,0.691,24660.63167,0.774,13589.556579999999,derrota
+1994,Group stage,United States,0,1,Romania,,derrota,USA,ROU,41280.44005,0.884,11361.39657,0.682,29919.043479999997,derrota
+1994,Group stage,Switzerland,0,2,Colombia,,derrota,CHE,COL,56462.67389,0.863,8940.705583,0.64,47521.968306999996,derrota
+1994,Group stage,Germany,3,2,South Korea,,vitoria,DEU,KOR,38764.17249,0.858,16649.35858,0.773,22114.813909999997,vitoria
+1994,Group stage,Bolivia,1,3,Spain,,derrota,BOL,ESP,4782.391567,0.587,27291.10724,0.789,22508.715673000002,vitoria
+1994,Group stage,Republic of Ireland,0,0,Norway,,empate,IRL,NOR,26340.14874,0.771,39504.12494,0.873,13163.976200000001,empate
+1994,Group stage,Italy,1,1,Mexico,,empate,ITA,MEX,37314.22695,0.804,15693.75777,0.674,21620.469179999996,empate
+1994,Group stage,Brazil,1,1,Sweden,,empate,BRA,SWE,10554.70878,0.638,33639.80999,0.851,23085.10121,empate
+1994,Group stage,Russia,6,1,Cameroon,,vitoria,RUS,CMR,13825.24638,0.698,2511.078298,0.436,11314.168082,vitoria
+1994,Group stage,Morocco,1,2,Netherlands,,derrota,MAR,NLD,3986.447718,0.475,38615.60382,0.881,34629.15610199999,vitoria
+1994,Group stage,Belgium,0,1,Saudi Arabia,,derrota,BEL,SAU,39684.17044,0.858,44036.64032,0.704,4352.469879999997,vitoria
+1994,Group stage,Greece,0,2,Nigeria,,derrota,GRC,NGA,24660.63167,0.774,2765.381452,,21895.250217999997,derrota
+1994,Group stage,Argentina,0,2,Bulgaria,,derrota,ARG,BGR,17874.84399,0.744,11071.07509,0.691,6803.768900000001,derrota
+1994,Round of 16,Germany,3,2,Belgium,,vitoria,DEU,BEL,38764.17249,0.858,39684.17044,0.858,919.9979500000045,derrota
+1994,Round of 16,Spain,3,0,Switzerland,,vitoria,ESP,CHE,27291.10724,0.789,56462.67389,0.863,29171.566649999997,derrota
+1994,Round of 16,Saudi Arabia,1,3,Sweden,,derrota,SAU,SWE,44036.64032,0.704,33639.80999,0.851,10396.830329999997,derrota
+1994,Round of 16,Romania,3,2,Argentina,,vitoria,ROU,ARG,11361.39657,0.682,17874.84399,0.744,6513.44742,derrota
+1994,Round of 16,Netherlands,2,0,Republic of Ireland,,vitoria,NLD,IRL,38615.60382,0.881,26340.14874,0.771,12275.455079999996,vitoria
+1994,Round of 16,United States,0,1,Brazil,,derrota,USA,BRA,41280.44005,0.884,10554.70878,0.638,30725.731269999997,derrota
+1994,Round of 16,Nigeria,1,2,Italy,Extra time,derrota,NGA,ITA,2765.381452,,37314.22695,0.804,34548.845497999995,vitoria
+1994,Round of 16,Mexico,1,1,Bulgaria,Bulgaria win on penalties (1 - 3),empate,MEX,BGR,15693.75777,0.674,11071.07509,0.691,4622.68268,empate
+1994,Quarter-finals,Italy,2,1,Spain,,vitoria,ITA,ESP,37314.22695,0.804,27291.10724,0.789,10023.119709999995,vitoria
+1994,Quarter-finals,Netherlands,2,3,Brazil,,derrota,NLD,BRA,38615.60382,0.881,10554.70878,0.638,28060.895039999996,derrota
+1994,Quarter-finals,Bulgaria,2,1,Germany,,vitoria,BGR,DEU,11071.07509,0.691,38764.17249,0.858,27693.0974,derrota
+1994,Quarter-finals,Romania,2,2,Sweden,Sweden win on penalties (4 - 5),empate,ROU,SWE,11361.39657,0.682,33639.80999,0.851,22278.41342,empate
+1994,Semi-finals,Bulgaria,1,2,Italy,,derrota,BGR,ITA,11071.07509,0.691,37314.22695,0.804,26243.151859999998,vitoria
+1994,Semi-finals,Sweden,0,1,Brazil,,derrota,SWE,BRA,33639.80999,0.851,10554.70878,0.638,23085.10121,derrota
+1994,Third place,Sweden,4,0,Bulgaria,,vitoria,SWE,BGR,33639.80999,0.851,11071.07509,0.691,22568.734900000003,vitoria
+1994,Final,Brazil,0,0,Italy,Brazil win on penalties (3 - 2),empate,BRA,ITA,10554.70878,0.638,37314.22695,0.804,26759.518169999996,empate
+1998,Group stage,Brazil,2,1,Scotland,,vitoria,BRA,GBR,10889.91945,0.666,35707.68553,0.848,24817.76608,derrota
+1998,Group stage,Morocco,2,2,Norway,,empate,MAR,NOR,4265.93096,0.501,45662.82229,0.895,41396.89133,empate
+1998,Group stage,Italy,2,2,Chile,,empate,ITA,CHL,41091.27344,0.829,14996.25315,0.749,26095.020289999997,empate
+1998,Group stage,Cameroon,1,1,Austria,,empate,CMR,AUT,2665.582055,0.436,44553.74381,0.863,41888.161755,empate
+1998,Group stage,Paraguay,0,0,Bulgaria,,empate,PRY,BGR,8479.868689,0.644,10910.83622,0.716,2430.9675309999984,empate
+1998,Group stage,Saudi Arabia,0,1,Denmark,,derrota,SAU,DNK,43524.14147,0.727,43710.75025,0.876,186.60877999999502,vitoria
+1998,Group stage,France,3,0,South Africa,,vitoria,FRA,ZAF,37927.29301,0.842,10443.91836,0.644,27483.37465,vitoria
+1998,Group stage,Spain,2,3,Nigeria,,derrota,ESP,NGA,31386.59797,0.813,2803.733211,,28582.864759,derrota
+1998,Group stage,South Korea,1,3,Mexico,,derrota,KOR,MEX,18907.77671,0.804,16530.8313,0.696,2376.9454099999966,derrota
+1998,Group stage,Netherlands,0,0,Belgium,,empate,NLD,BEL,44209.7944,0.886,42943.50772,0.878,1266.2866799999974,empate
+1998,Group stage,Argentina,1,0,Japan,,vitoria,ARG,JPN,19427.08332,0.762,37789.3161,0.871,18362.232779999995,derrota
+1998,Group stage,Yugoslavia,1,0,Iran,,vitoria,SRB,IRN,9203.31905,0.687,9667.874268,0.669,464.5552179999995,derrota
+1998,Group stage,Jamaica,1,3,Croatia,,derrota,JAM,HRV,8839.144995,0.666,17628.52739,0.742,8789.382394999999,vitoria
+1998,Group stage,England,2,0,Tunisia,,vitoria,GBR,TUN,35707.68553,0.848,6987.206164,0.639,28720.479366000003,vitoria
+1998,Group stage,Romania,1,0,Colombia,,vitoria,ROU,COL,11722.06464,0.7,9318.106668,0.665,2403.957972,vitoria
+1998,Group stage,Germany,2,0,United States,,vitoria,DEU,USA,40941.19258,0.879,47253.20126,0.893,6312.008679999999,derrota
+1998,Group stage,Scotland,1,1,Norway,,empate,GBR,NOR,35707.68553,0.848,45662.82229,0.895,9955.136759999994,empate
+1998,Group stage,Brazil,3,0,Morocco,,vitoria,BRA,MAR,10889.91945,0.666,4265.93096,0.501,6623.98849,vitoria
+1998,Group stage,Chile,1,1,Austria,,empate,CHL,AUT,14996.25315,0.749,44553.74381,0.863,29557.49066,empate
+1998,Group stage,Italy,3,0,Cameroon,,vitoria,ITA,CMR,41091.27344,0.829,2665.582055,0.436,38425.691385,vitoria
+1998,Group stage,South Africa,1,1,Denmark,,empate,ZAF,DNK,10443.91836,0.644,43710.75025,0.876,33266.83189,empate
+1998,Group stage,France,4,0,Saudi Arabia,,vitoria,FRA,SAU,37927.29301,0.842,43524.14147,0.727,5596.848460000001,derrota
+1998,Group stage,Nigeria,1,0,Bulgaria,,vitoria,NGA,BGR,2803.733211,,10910.83622,0.716,8107.103008999999,derrota
+1998,Group stage,Spain,0,0,Paraguay,,empate,ESP,PRY,31386.59797,0.813,8479.868689,0.644,22906.729281,empate
+1998,Group stage,Japan,0,1,Croatia,,derrota,JPN,HRV,37789.3161,0.871,17628.52739,0.742,20160.788709999997,derrota
+1998,Group stage,Belgium,2,2,Mexico,,empate,BEL,MEX,42943.50772,0.878,16530.8313,0.696,26412.67642,empate
+1998,Group stage,Netherlands,5,0,South Korea,,vitoria,NLD,KOR,44209.7944,0.886,18907.77671,0.804,25302.01769,vitoria
+1998,Group stage,Germany,2,2,Yugoslavia,,empate,DEU,SRB,40941.19258,0.879,9203.31905,0.687,31737.873530000004,empate
+1998,Group stage,Argentina,5,0,Jamaica,,vitoria,ARG,JAM,19427.08332,0.762,8839.144995,0.666,10587.938325000001,vitoria
+1998,Group stage,United States,1,2,Iran,,derrota,USA,IRN,47253.20126,0.893,9667.874268,0.669,37585.326992,derrota
+1998,Group stage,Colombia,1,0,Tunisia,,vitoria,COL,TUN,9318.106668,0.665,6987.206164,0.639,2330.900504,vitoria
+1998,Group stage,Romania,2,1,England,,vitoria,ROU,GBR,11722.06464,0.7,35707.68553,0.848,23985.620890000002,derrota
+1998,Group stage,Italy,2,1,Austria,,vitoria,ITA,AUT,41091.27344,0.829,44553.74381,0.863,3462.4703700000027,derrota
+1998,Group stage,Chile,1,1,Cameroon,,empate,CHL,CMR,14996.25315,0.749,2665.582055,0.436,12330.671095000002,empate
+1998,Group stage,Scotland,0,3,Morocco,,derrota,GBR,MAR,35707.68553,0.848,4265.93096,0.501,31441.754570000005,derrota
+1998,Group stage,Brazil,1,2,Norway,,derrota,BRA,NOR,10889.91945,0.666,45662.82229,0.895,34772.902839999995,vitoria
+1998,Group stage,France,2,1,Denmark,,vitoria,FRA,DNK,37927.29301,0.842,43710.75025,0.876,5783.457239999996,derrota
+1998,Group stage,South Africa,2,2,Saudi Arabia,,empate,ZAF,SAU,10443.91836,0.644,43524.14147,0.727,33080.223110000006,empate
+1998,Group stage,Spain,6,1,Bulgaria,,vitoria,ESP,BGR,31386.59797,0.813,10910.83622,0.716,20475.761749999998,vitoria
+1998,Group stage,Nigeria,1,3,Paraguay,,derrota,NGA,PRY,2803.733211,,8479.868689,0.644,5676.135478,vitoria
+1998,Group stage,Belgium,1,1,South Korea,,empate,BEL,KOR,42943.50772,0.878,18907.77671,0.804,24035.731010000003,empate
+1998,Group stage,Netherlands,2,2,Mexico,,empate,NLD,MEX,44209.7944,0.886,16530.8313,0.696,27678.963099999997,empate
+1998,Group stage,Germany,2,0,Iran,,vitoria,DEU,IRN,40941.19258,0.879,9667.874268,0.669,31273.318312000003,vitoria
+1998,Group stage,United States,0,1,Yugoslavia,,derrota,USA,SRB,47253.20126,0.893,9203.31905,0.687,38049.88221,derrota
+1998,Group stage,Japan,1,2,Jamaica,,derrota,JPN,JAM,37789.3161,0.871,8839.144995,0.666,28950.171104999994,derrota
+1998,Group stage,Argentina,1,0,Croatia,,vitoria,ARG,HRV,19427.08332,0.762,17628.52739,0.742,1798.5559300000023,vitoria
+1998,Group stage,Romania,1,1,Tunisia,,empate,ROU,TUN,11722.06464,0.7,6987.206164,0.639,4734.858476,empate
+1998,Group stage,Colombia,0,2,England,,derrota,COL,GBR,9318.106668,0.665,35707.68553,0.848,26389.578862000002,vitoria
+1998,Round of 16,Italy,1,0,Norway,,vitoria,ITA,NOR,41091.27344,0.829,45662.82229,0.895,4571.548849999999,derrota
+1998,Round of 16,Brazil,4,1,Chile,,vitoria,BRA,CHL,10889.91945,0.666,14996.25315,0.749,4106.333700000001,derrota
+1998,Round of 16,France,1,0,Paraguay,Extra time,vitoria,FRA,PRY,37927.29301,0.842,8479.868689,0.644,29447.424321,vitoria
+1998,Round of 16,Nigeria,1,4,Denmark,,derrota,NGA,DNK,2803.733211,,43710.75025,0.876,40907.017039,vitoria
+1998,Round of 16,Germany,2,1,Mexico,,vitoria,DEU,MEX,40941.19258,0.879,16530.8313,0.696,24410.36128,vitoria
+1998,Round of 16,Netherlands,2,1,Yugoslavia,,vitoria,NLD,SRB,44209.7944,0.886,9203.31905,0.687,35006.47535,vitoria
+1998,Round of 16,Romania,0,1,Croatia,,derrota,ROU,HRV,11722.06464,0.7,17628.52739,0.742,5906.462749999999,vitoria
+1998,Round of 16,Argentina,2,2,England,Argentina win on penalties (4 - 3),empate,ARG,GBR,19427.08332,0.762,35707.68553,0.848,16280.602210000001,empate
+1998,Quarter-finals,France,0,0,Italy,France win on penalties (3 - 4),empate,FRA,ITA,37927.29301,0.842,41091.27344,0.829,3163.980429999996,empate
+1998,Quarter-finals,Brazil,3,2,Denmark,,vitoria,BRA,DNK,10889.91945,0.666,43710.75025,0.876,32820.830799999996,derrota
+1998,Quarter-finals,Netherlands,2,1,Argentina,,vitoria,NLD,ARG,44209.7944,0.886,19427.08332,0.762,24782.711079999997,vitoria
+1998,Quarter-finals,Germany,0,3,Croatia,,derrota,DEU,HRV,40941.19258,0.879,17628.52739,0.742,23312.665190000003,derrota
+1998,Semi-finals,Brazil,1,1,Netherlands,Brazil win on penalties (4 - 2),empate,BRA,NLD,10889.91945,0.666,44209.7944,0.886,33319.87495,empate
+1998,Semi-finals,France,2,1,Croatia,,vitoria,FRA,HRV,37927.29301,0.842,17628.52739,0.742,20298.765620000002,vitoria
+1998,Third place,Netherlands,1,2,Croatia,,derrota,NLD,HRV,44209.7944,0.886,17628.52739,0.742,26581.26701,derrota
+1998,Final,France,3,0,Brazil,,vitoria,FRA,BRA,37927.29301,0.842,10889.91945,0.666,27037.37356,vitoria
+2002,Group stage,France,0,1,Senegal,,derrota,FRA,SEN,40731.98644,0.848,2548.542269,0.398,38183.444171,derrota
+2002,Group stage,Republic of Ireland,1,1,Cameroon,,empate,IRL,CMR,42417.42304,0.864,2805.071743,0.461,39612.351297,empate
+2002,Group stage,Uruguay,1,2,Denmark,,derrota,URY,DNK,12897.16027,0.764,46964.49154,0.896,34067.33127,vitoria
+2002,Group stage,Germany,8,0,Saudi Arabia,,vitoria,DEU,SAU,42877.62022,0.901,38447.68497,0.75,4429.935249999995,vitoria
+2002,Group stage,Argentina,1,0,Nigeria,,vitoria,ARG,NGA,14727.85071,0.785,3191.837532,,11536.013178000001,vitoria
+2002,Group stage,Paraguay,2,2,South Africa,,empate,PRY,ZAF,7400.037724,0.662,11214.99293,0.633,3814.9552060000005,empate
+2002,Group stage,England,1,1,Sweden,,empate,GBR,SWE,39849.42208,0.873,42543.37441,0.91,2693.95233,empate
+2002,Group stage,Spain,3,1,Slovenia,,vitoria,ESP,SVN,35942.07889,0.834,28341.71764,0.848,7600.361249999998,vitoria
+2002,Group stage,Croatia,0,1,Mexico,,derrota,HRV,MEX,20441.25459,0.777,16899.50116,0.719,3541.7534300000007,derrota
+2002,Group stage,Brazil,2,1,Turkey,,vitoria,BRA,TUR,11415.26383,0.692,15090.04263,0.684,3674.7788,derrota
+2002,Group stage,Italy,2,0,Ecuador,,vitoria,ITA,ECU,43948.71871,0.853,8191.207779,0.698,35757.510931,vitoria
+2002,Group stage,China,0,2,Costa Rica,,derrota,CHN,CRI,3988.393847,0.604,12476.34459,0.722,8487.950743000001,vitoria
+2002,Group stage,Japan,2,2,Belgium,,empate,JPN,BEL,38355.44101,0.882,45852.84486,0.892,7497.403849999995,empate
+2002,Group stage,South Korea,2,0,Poland,,vitoria,KOR,POL,25490.7206,0.84,16740.2735,0.806,8750.447100000001,vitoria
+2002,Group stage,Russia,2,0,Tunisia,,vitoria,RUS,TUN,15886.59368,0.746,7829.054562,0.67,8057.539118,vitoria
+2002,Group stage,United States,3,2,Portugal,,vitoria,USA,PRT,50936.99207,0.893,29484.44685,0.798,21452.54522,vitoria
+2002,Group stage,Germany,1,1,Republic of Ireland,,empate,DEU,IRL,42877.62022,0.901,42417.42304,0.864,460.19717999999557,empate
+2002,Group stage,Denmark,1,1,Senegal,,empate,DNK,SEN,46964.49154,0.896,2548.542269,0.398,44415.949271000005,empate
+2002,Group stage,Cameroon,1,0,Saudi Arabia,,vitoria,CMR,SAU,2805.071743,0.461,38447.68497,0.75,35642.613227,derrota
+2002,Group stage,France,0,0,Uruguay,,empate,FRA,URY,40731.98644,0.848,12897.16027,0.764,27834.82617,empate
+2002,Group stage,Sweden,2,1,Nigeria,,vitoria,SWE,NGA,42543.37441,0.91,3191.837532,,39351.536878,vitoria
+2002,Group stage,Spain,3,1,Paraguay,,vitoria,ESP,PRY,35942.07889,0.834,7400.037724,0.662,28542.041165999995,vitoria
+2002,Group stage,Argentina,0,1,England,,derrota,ARG,GBR,14727.85071,0.785,39849.42208,0.873,25121.571369999998,vitoria
+2002,Group stage,South Africa,1,0,Slovenia,,vitoria,ZAF,SVN,11214.99293,0.633,28341.71764,0.848,17126.72471,derrota
+2002,Group stage,Italy,1,2,Croatia,,derrota,ITA,HRV,43948.71871,0.853,20441.25459,0.777,23507.46412,derrota
+2002,Group stage,Brazil,4,0,China,,vitoria,BRA,CHN,11415.26383,0.692,3988.393847,0.604,7426.8699830000005,vitoria
+2002,Group stage,Mexico,2,1,Ecuador,,vitoria,MEX,ECU,16899.50116,0.719,8191.207779,0.698,8708.293381,vitoria
+2002,Group stage,Costa Rica,1,1,Turkey,,empate,CRI,TUR,12476.34459,0.722,15090.04263,0.684,2613.6980399999993,empate
+2002,Group stage,Japan,1,0,Russia,,vitoria,JPN,RUS,38355.44101,0.882,15886.59368,0.746,22468.847330000004,vitoria
+2002,Group stage,South Korea,1,1,United States,,empate,KOR,USA,25490.7206,0.84,50936.99207,0.893,25446.27147,empate
+2002,Group stage,Tunisia,1,1,Belgium,,empate,TUN,BEL,7829.054562,0.67,45852.84486,0.892,38023.790298,empate
+2002,Group stage,Portugal,4,0,Poland,,vitoria,PRT,POL,29484.44685,0.798,16740.2735,0.806,12744.173350000001,vitoria
+2002,Group stage,Denmark,2,0,France,,vitoria,DNK,FRA,46964.49154,0.896,40731.98644,0.848,6232.505100000002,vitoria
+2002,Group stage,Senegal,3,3,Uruguay,,empate,SEN,URY,2548.542269,0.398,12897.16027,0.764,10348.618001,empate
+2002,Group stage,Saudi Arabia,0,3,Republic of Ireland,,derrota,SAU,IRL,38447.68497,0.75,42417.42304,0.864,3969.7380699999994,vitoria
+2002,Group stage,Cameroon,0,2,Germany,,derrota,CMR,DEU,2805.071743,0.461,42877.62022,0.901,40072.548477,vitoria
+2002,Group stage,Sweden,1,1,Argentina,,empate,SWE,ARG,42543.37441,0.91,14727.85071,0.785,27815.523699999998,empate
+2002,Group stage,Nigeria,0,0,England,,empate,NGA,GBR,3191.837532,,39849.42208,0.873,36657.584548,empate
+2002,Group stage,Slovenia,1,3,Paraguay,,derrota,SVN,PRY,28341.71764,0.848,7400.037724,0.662,20941.679916,derrota
+2002,Group stage,South Africa,2,3,Spain,,derrota,ZAF,ESP,11214.99293,0.633,35942.07889,0.834,24727.085959999997,vitoria
+2002,Group stage,Costa Rica,2,5,Brazil,,derrota,CRI,BRA,12476.34459,0.722,11415.26383,0.692,1061.0807600000007,derrota
+2002,Group stage,Turkey,3,0,China,,vitoria,TUR,CHN,15090.04263,0.684,3988.393847,0.604,11101.648783,vitoria
+2002,Group stage,Ecuador,1,0,Croatia,,vitoria,ECU,HRV,8191.207779,0.698,20441.25459,0.777,12250.046811,derrota
+2002,Group stage,Mexico,1,1,Italy,,empate,MEX,ITA,16899.50116,0.719,43948.71871,0.853,27049.21755,empate
+2002,Group stage,Japan,2,0,Tunisia,,vitoria,JPN,TUN,38355.44101,0.882,7829.054562,0.67,30526.386448,vitoria
+2002,Group stage,Belgium,3,2,Russia,,vitoria,BEL,RUS,45852.84486,0.892,15886.59368,0.746,29966.25118,vitoria
+2002,Group stage,South Korea,1,0,Portugal,,vitoria,KOR,PRT,25490.7206,0.84,29484.44685,0.798,3993.7262499999997,derrota
+2002,Group stage,Poland,3,1,United States,,vitoria,POL,USA,16740.2735,0.806,50936.99207,0.893,34196.71857,derrota
+2002,Round of 16,Germany,1,0,Paraguay,,vitoria,DEU,PRY,42877.62022,0.901,7400.037724,0.662,35477.582495999995,vitoria
+2002,Round of 16,Denmark,0,3,England,,derrota,DNK,GBR,46964.49154,0.896,39849.42208,0.873,7115.069460000006,derrota
+2002,Round of 16,Sweden,1,2,Senegal,Golden goal,derrota,SWE,SEN,42543.37441,0.91,2548.542269,0.398,39994.832141,derrota
+2002,Round of 16,Spain,1,1,Republic of Ireland,Spain win on penalties (3 - 2),empate,ESP,IRL,35942.07889,0.834,42417.42304,0.864,6475.344150000004,empate
+2002,Round of 16,Mexico,0,2,United States,,derrota,MEX,USA,16899.50116,0.719,50936.99207,0.893,34037.49091,vitoria
+2002,Round of 16,Brazil,2,0,Belgium,,vitoria,BRA,BEL,11415.26383,0.692,45852.84486,0.892,34437.58103,derrota
+2002,Round of 16,Japan,0,1,Turkey,,derrota,JPN,TUR,38355.44101,0.882,15090.04263,0.684,23265.398380000002,derrota
+2002,Round of 16,South Korea,2,1,Italy,Golden goal,vitoria,KOR,ITA,25490.7206,0.84,43948.71871,0.853,18457.99811,derrota
+2002,Quarter-finals,England,1,2,Brazil,,derrota,GBR,BRA,39849.42208,0.873,11415.26383,0.692,28434.158249999997,derrota
+2002,Quarter-finals,Germany,1,0,United States,,vitoria,DEU,USA,42877.62022,0.901,50936.99207,0.893,8059.371850000003,derrota
+2002,Quarter-finals,South Korea,0,0,Spain,South Korea win on penalties (3 - 5),empate,KOR,ESP,25490.7206,0.84,35942.07889,0.834,10451.358289999996,empate
+2002,Quarter-finals,Senegal,0,1,Turkey,Golden goal,derrota,SEN,TUR,2548.542269,0.398,15090.04263,0.684,12541.500361,vitoria
+2002,Semi-finals,South Korea,0,1,Germany,,derrota,KOR,DEU,25490.7206,0.84,42877.62022,0.901,17386.899619999997,vitoria
+2002,Semi-finals,Brazil,1,0,Turkey,,vitoria,BRA,TUR,11415.26383,0.692,15090.04263,0.684,3674.7788,derrota
+2002,Third place,South Korea,2,3,Turkey,,derrota,KOR,TUR,25490.7206,0.84,15090.04263,0.684,10400.67797,derrota
+2002,Final,Germany,0,2,Brazil,,derrota,DEU,BRA,42877.62022,0.901,11415.26383,0.692,31462.356389999997,derrota
+2006,Group stage,Germany,4,2,Costa Rica,,vitoria,DEU,CRI,46045.61338,0.917,14575.16346,0.747,31470.449920000003,vitoria
+2006,Group stage,Poland,0,2,Ecuador,,derrota,POL,ECU,19685.71892,0.82,9385.692493,0.72,10300.026426999999,derrota
+2006,Group stage,England,1,0,Paraguay,,vitoria,GBR,PRY,43021.0528,0.894,7967.30967,0.664,35053.743129999995,vitoria
+2006,Group stage,Trinidad and Tobago,0,0,Sweden,,empate,TTO,SWE,26206.36859,0.767,48497.11531,0.906,22290.746720000003,empate
+2006,Group stage,Argentina,2,1,Ivory Coast,,vitoria,ARG,CIV,20131.40256,0.814,2529.149232,0.458,17602.253328,vitoria
+2006,Group stage,Serbia,0,1,Netherlands,,derrota,SRB,NLD,12795.25716,0.746,52037.50952,0.906,39242.25236,vitoria
+2006,Group stage,Mexico,3,1,Iran,,vitoria,MEX,IRN,18033.14918,0.741,12465.95662,0.727,5567.1925599999995,vitoria
+2006,Group stage,Angola,0,1,Portugal,,derrota,AGO,PRT,5672.126464,0.459,29778.5573,0.811,24106.430836,vitoria
+2006,Group stage,Australia,3,1,Japan,,vitoria,AUS,JPN,41648.29006,0.914,40407.54524,0.892,1240.74482,vitoria
+2006,Group stage,United States,0,3,Czech Republic,,derrota,USA,CZE,55681.43355,0.904,30366.83164,0.852,25314.60191,derrota
+2006,Group stage,Italy,2,0,Ghana,,vitoria,ITA,GHA,44658.82268,0.873,3260.440634,0.54,41398.382046,vitoria
+2006,Group stage,South Korea,2,1,Togo,,vitoria,KOR,TGO,29901.61423,0.866,1549.220448,0.464,28352.393782,vitoria
+2006,Group stage,France,0,0,Switzerland,,empate,FRA,CHE,42662.02398,0.87,69488.94513,0.914,26826.921149999995,empate
+2006,Group stage,Brazil,1,0,Croatia,,vitoria,BRA,HRV,12605.81821,0.7,24318.48786,0.811,11712.669650000002,derrota
+2006,Group stage,Spain,4,0,Ukraine,,vitoria,ESP,UKR,38471.31913,0.856,11674.10072,0.751,26797.21841,vitoria
+2006,Group stage,Tunisia,2,2,Saudi Arabia,,empate,TUN,SAU,9152.383855,0.7,44807.12574,0.787,35654.741885,empate
+2006,Group stage,Germany,1,0,Poland,,vitoria,DEU,POL,46045.61338,0.917,19685.71892,0.82,26359.894460000003,vitoria
+2006,Group stage,Ecuador,3,0,Costa Rica,,vitoria,ECU,CRI,9385.692493,0.72,14575.16346,0.747,5189.470966999999,derrota
+2006,Group stage,England,2,0,Trinidad and Tobago,,vitoria,GBR,TTO,43021.0528,0.894,26206.36859,0.767,16814.68421,vitoria
+2006,Group stage,Sweden,1,0,Paraguay,,vitoria,SWE,PRY,48497.11531,0.906,7967.30967,0.664,40529.80564,vitoria
+2006,Group stage,Argentina,6,0,Serbia,,vitoria,ARG,SRB,20131.40256,0.814,12795.25716,0.746,7336.145399999999,vitoria
+2006,Group stage,Netherlands,2,1,Ivory Coast,,vitoria,NLD,CIV,52037.50952,0.906,2529.149232,0.458,49508.360287999996,vitoria
+2006,Group stage,Mexico,0,0,Angola,,empate,MEX,AGO,18033.14918,0.741,5672.126464,0.459,12361.022716,empate
+2006,Group stage,Portugal,2,0,Iran,,vitoria,PRT,IRN,29778.5573,0.811,12465.95662,0.727,17312.60068,vitoria
+2006,Group stage,Czech Republic,0,2,Ghana,,derrota,CZE,GHA,30366.83164,0.852,3260.440634,0.54,27106.391006,derrota
+2006,Group stage,Italy,1,1,United States,,empate,ITA,USA,44658.82268,0.873,55681.43355,0.904,11022.610870000004,empate
+2006,Group stage,Japan,0,0,Croatia,,empate,JPN,HRV,40407.54524,0.892,24318.48786,0.811,16089.057379999998,empate
+2006,Group stage,Brazil,2,0,Australia,,vitoria,BRA,AUS,12605.81821,0.7,41648.29006,0.914,29042.47185,derrota
+2006,Group stage,France,1,1,South Korea,,empate,FRA,KOR,42662.02398,0.87,29901.61423,0.866,12760.409749999999,empate
+2006,Group stage,Togo,0,2,Switzerland,,derrota,TGO,CHE,1549.220448,0.464,69488.94513,0.914,67939.724682,vitoria
+2006,Group stage,Saudi Arabia,0,4,Ukraine,,derrota,SAU,UKR,44807.12574,0.787,11674.10072,0.751,33133.02502,derrota
+2006,Group stage,Spain,3,1,Tunisia,,vitoria,ESP,TUN,38471.31913,0.856,9152.383855,0.7,29318.935275000003,vitoria
+2006,Group stage,Germany,3,0,Ecuador,,vitoria,DEU,ECU,46045.61338,0.917,9385.692493,0.72,36659.920887,vitoria
+2006,Group stage,Costa Rica,1,2,Poland,,derrota,CRI,POL,14575.16346,0.747,19685.71892,0.82,5110.55546,vitoria
+2006,Group stage,Sweden,2,2,England,,empate,SWE,GBR,48497.11531,0.906,43021.0528,0.894,5476.062510000003,empate
+2006,Group stage,Paraguay,2,0,Trinidad and Tobago,,vitoria,PRY,TTO,7967.30967,0.664,26206.36859,0.767,18239.05892,derrota
+2006,Group stage,Iran,1,1,Angola,,empate,IRN,AGO,12465.95662,0.727,5672.126464,0.459,6793.830156000001,empate
+2006,Group stage,Portugal,2,1,Mexico,,vitoria,PRT,MEX,29778.5573,0.811,18033.14918,0.741,11745.40812,vitoria
+2006,Group stage,Netherlands,0,0,Argentina,,empate,NLD,ARG,52037.50952,0.906,20131.40256,0.814,31906.10696,empate
+2006,Group stage,Ivory Coast,3,2,Serbia,,vitoria,CIV,SRB,2529.149232,0.458,12795.25716,0.746,10266.107928,derrota
+2006,Group stage,Czech Republic,0,2,Italy,,derrota,CZE,ITA,30366.83164,0.852,44658.82268,0.873,14291.991039999997,vitoria
+2006,Group stage,Ghana,2,1,United States,,vitoria,GHA,USA,3260.440634,0.54,55681.43355,0.904,52420.992916,derrota
+2006,Group stage,Japan,1,4,Brazil,,derrota,JPN,BRA,40407.54524,0.892,12605.81821,0.7,27801.727030000002,derrota
+2006,Group stage,Croatia,2,2,Australia,,empate,HRV,AUS,24318.48786,0.811,41648.29006,0.914,17329.8022,empate
+2006,Group stage,Ukraine,1,0,Tunisia,,vitoria,UKR,TUN,11674.10072,0.751,9152.383855,0.7,2521.7168650000003,vitoria
+2006,Group stage,Saudi Arabia,0,1,Spain,,derrota,SAU,ESP,44807.12574,0.787,38471.31913,0.856,6335.80661,derrota
+2006,Group stage,Togo,0,2,France,,derrota,TGO,FRA,1549.220448,0.464,42662.02398,0.87,41112.803532,vitoria
+2006,Group stage,Switzerland,2,0,South Korea,,vitoria,CHE,KOR,69488.94513,0.914,29901.61423,0.866,39587.33089999999,vitoria
+2006,Round of 16,Germany,2,0,Sweden,,vitoria,DEU,SWE,46045.61338,0.917,48497.11531,0.906,2451.5019299999985,derrota
+2006,Round of 16,Argentina,2,1,Mexico,Extra time,vitoria,ARG,MEX,20131.40256,0.814,18033.14918,0.741,2098.2533799999983,vitoria
+2006,Round of 16,England,1,0,Ecuador,,vitoria,GBR,ECU,43021.0528,0.894,9385.692493,0.72,33635.360306999995,vitoria
+2006,Round of 16,Portugal,1,0,Netherlands,,vitoria,PRT,NLD,29778.5573,0.811,52037.50952,0.906,22258.95222,derrota
+2006,Round of 16,Italy,1,0,Australia,,vitoria,ITA,AUS,44658.82268,0.873,41648.29006,0.914,3010.532619999998,vitoria
+2006,Round of 16,Switzerland,0,0,Ukraine,Ukraine win on penalties (0 - 3),empate,CHE,UKR,69488.94513,0.914,11674.10072,0.751,57814.84440999999,empate
+2006,Round of 16,Brazil,3,0,Ghana,,vitoria,BRA,GHA,12605.81821,0.7,3260.440634,0.54,9345.377575999999,vitoria
+2006,Round of 16,Spain,1,3,France,,derrota,ESP,FRA,38471.31913,0.856,42662.02398,0.87,4190.704849999995,vitoria
+2006,Quarter-finals,Germany,1,1,Argentina,Germany win on penalties (4 - 2),empate,DEU,ARG,46045.61338,0.917,20131.40256,0.814,25914.210820000004,empate
+2006,Quarter-finals,Italy,3,0,Ukraine,,vitoria,ITA,UKR,44658.82268,0.873,11674.10072,0.751,32984.721959999995,vitoria
+2006,Quarter-finals,England,0,0,Portugal,Portugal win on penalties (1 - 3),empate,GBR,PRT,43021.0528,0.894,29778.5573,0.811,13242.495499999997,empate
+2006,Quarter-finals,Brazil,0,1,France,,derrota,BRA,FRA,12605.81821,0.7,42662.02398,0.87,30056.20577,vitoria
+2006,Semi-finals,Germany,0,2,Italy,Extra time,derrota,DEU,ITA,46045.61338,0.917,44658.82268,0.873,1386.790700000005,derrota
+2006,Semi-finals,Portugal,0,1,France,,derrota,PRT,FRA,29778.5573,0.811,42662.02398,0.87,12883.466679999998,vitoria
+2006,Third place,Germany,3,1,Portugal,,vitoria,DEU,PRT,46045.61338,0.917,29778.5573,0.811,16267.056080000002,vitoria
+2006,Final,Italy,1,1,France,Italy win on penalties (5 - 3),empate,ITA,FRA,44658.82268,0.873,42662.02398,0.87,1996.7986999999994,empate
+2010,Group stage,South Africa,1,1,Mexico,,empate,ZAF,MEX,13354.96125,0.675,17575.83104,0.746,4220.869790000001,empate
+2010,Group stage,Uruguay,0,0,France,,empate,URY,FRA,18614.31477,0.787,42771.58715,0.877,24157.27238,empate
+2010,Group stage,South Korea,2,0,Greece,,vitoria,KOR,GRC,34443.54124,0.89,32426.75908,0.869,2016.7821599999988,vitoria
+2010,Group stage,Argentina,1,0,Nigeria,,vitoria,ARG,NGA,22734.96712,0.834,4635.558111,0.482,18099.409009000003,vitoria
+2010,Group stage,England,1,1,United States,,empate,GBR,USA,41666.51526,0.912,54265.33606,0.911,12598.820800000001,empate
+2010,Group stage,Algeria,0,1,Slovenia,,derrota,DZA,SVN,10918.46514,0.721,32747.03725,0.89,21828.57211,vitoria
+2010,Group stage,Serbia,0,1,Ghana,,derrota,SRB,GHA,14211.49905,0.767,3757.458926,0.574,10454.040124000001,derrota
+2010,Group stage,Germany,4,0,Australia,,vitoria,DEU,AUS,47554.22563,0.926,42840.45928,0.923,4713.766349999998,vitoria
+2010,Group stage,Netherlands,2,0,Denmark,,vitoria,NLD,DNK,52227.99073,0.917,51409.125,0.913,818.8657299999977,vitoria
+2010,Group stage,Japan,1,0,Cameroon,,vitoria,JPN,CMR,39152.92818,0.898,3193.326015,0.513,35959.602165000004,vitoria
+2010,Group stage,Italy,1,1,Paraguay,,empate,ITA,PRY,42150.60535,0.882,9908.752523,0.685,32241.852827,empate
+2010,Group stage,New Zealand,1,1,Slovakia,,empate,NZL,SVK,34114.89481,0.922,26036.87643,0.84,8078.018379999998,empate
+2010,Group stage,Ivory Coast,0,0,Portugal,,empate,CIV,PRT,2702.006924,0.473,30139.45026,0.829,27437.443336,empate
+2010,Group stage,Brazil,2,1,North Korea,,vitoria,BRA,PRK,14414.12776,0.723,,,,
+2010,Group stage,Honduras,0,1,Chile,,derrota,HND,CHL,4647.567903,0.597,19744.92469,0.813,15097.356787,vitoria
+2010,Group stage,Spain,0,1,Switzerland,,derrota,ESP,CHE,37173.6819,0.868,71188.41857,0.942,34014.73666999999,vitoria
+2010,Group stage,South Africa,0,3,Uruguay,,derrota,ZAF,URY,13354.96125,0.675,18614.31477,0.787,5259.353520000001,vitoria
+2010,Group stage,Argentina,4,1,South Korea,,vitoria,ARG,KOR,22734.96712,0.834,34443.54124,0.89,11708.574119999997,derrota
+2010,Group stage,Greece,2,1,Nigeria,,vitoria,GRC,NGA,32426.75908,0.869,4635.558111,0.482,27791.200968999998,vitoria
+2010,Group stage,France,0,2,Mexico,,derrota,FRA,MEX,42771.58715,0.877,17575.83104,0.746,25195.75611,derrota
+2010,Group stage,Germany,0,1,Serbia,,derrota,DEU,SRB,47554.22563,0.926,14211.49905,0.767,33342.72658,derrota
+2010,Group stage,Slovenia,2,2,United States,,empate,SVN,USA,32747.03725,0.89,54265.33606,0.911,21518.29881,empate
+2010,Group stage,England,0,0,Algeria,,empate,GBR,DZA,41666.51526,0.912,10918.46514,0.721,30748.05012,empate
+2010,Group stage,Netherlands,1,0,Japan,,vitoria,NLD,JPN,52227.99073,0.917,39152.92818,0.898,13075.062549999995,vitoria
+2010,Group stage,Ghana,1,1,Australia,,empate,GHA,AUS,3757.458926,0.574,42840.45928,0.923,39083.000354,empate
+2010,Group stage,Cameroon,1,2,Denmark,,derrota,CMR,DNK,3193.326015,0.513,51409.125,0.913,48215.798985,vitoria
+2010,Group stage,Slovakia,0,2,Paraguay,,derrota,SVK,PRY,26036.87643,0.84,9908.752523,0.685,16128.123907000001,derrota
+2010,Group stage,Italy,1,1,New Zealand,,empate,ITA,NZL,42150.60535,0.882,34114.89481,0.922,8035.71054,empate
+2010,Group stage,Brazil,3,1,Ivory Coast,,vitoria,BRA,CIV,14414.12776,0.723,2702.006924,0.473,11712.120836,vitoria
+2010,Group stage,Portugal,7,0,North Korea,,vitoria,PRT,PRK,30139.45026,0.829,,,,
+2010,Group stage,Chile,1,0,Switzerland,,vitoria,CHL,CHE,19744.92469,0.813,71188.41857,0.942,51443.493879999995,derrota
+2010,Group stage,Spain,2,0,Honduras,,vitoria,ESP,HND,37173.6819,0.868,4647.567903,0.597,32526.113997000004,vitoria
+2010,Group stage,Mexico,0,1,Uruguay,,derrota,MEX,URY,17575.83104,0.746,18614.31477,0.787,1038.48373,vitoria
+2010,Group stage,South Africa,2,1,France,,vitoria,ZAF,FRA,13354.96125,0.675,42771.58715,0.877,29416.6259,derrota
+2010,Group stage,Nigeria,2,2,South Korea,,empate,NGA,KOR,4635.558111,0.482,34443.54124,0.89,29807.983129,empate
+2010,Group stage,Greece,0,2,Argentina,,derrota,GRC,ARG,32426.75908,0.869,22734.96712,0.834,9691.791959999999,derrota
+2010,Group stage,Slovenia,0,1,England,,derrota,SVN,GBR,32747.03725,0.89,41666.51526,0.912,8919.478009999999,vitoria
+2010,Group stage,United States,1,0,Algeria,,vitoria,USA,DZA,54265.33606,0.911,10918.46514,0.721,43346.87092,vitoria
+2010,Group stage,Ghana,0,1,Germany,,derrota,GHA,DEU,3757.458926,0.574,47554.22563,0.926,43796.766704,vitoria
+2010,Group stage,Australia,2,1,Serbia,,vitoria,AUS,SRB,42840.45928,0.923,14211.49905,0.767,28628.960230000004,vitoria
+2010,Group stage,Slovakia,3,2,Italy,,vitoria,SVK,ITA,26036.87643,0.84,42150.60535,0.882,16113.728919999998,derrota
+2010,Group stage,Paraguay,0,0,New Zealand,,empate,PRY,NZL,9908.752523,0.685,34114.89481,0.922,24206.142287,empate
+2010,Group stage,Denmark,1,3,Japan,,derrota,DNK,JPN,51409.125,0.913,39152.92818,0.898,12256.196819999997,derrota
+2010,Group stage,Cameroon,1,2,Netherlands,,derrota,CMR,NLD,3193.326015,0.513,52227.99073,0.917,49034.664715,vitoria
+2010,Group stage,Portugal,0,0,Brazil,,empate,PRT,BRA,30139.45026,0.829,14414.12776,0.723,15725.322500000002,empate
+2010,Group stage,North Korea,0,3,Ivory Coast,,derrota,PRK,CIV,,,2702.006924,0.473,,
+2010,Group stage,Chile,1,2,Spain,,derrota,CHL,ESP,19744.92469,0.813,37173.6819,0.868,17428.757210000003,vitoria
+2010,Group stage,Switzerland,0,0,Honduras,,empate,CHE,HND,71188.41857,0.942,4647.567903,0.597,66540.85066699999,empate
+2010,Round of 16,Uruguay,2,1,South Korea,,vitoria,URY,KOR,18614.31477,0.787,34443.54124,0.89,15829.226469999998,derrota
+2010,Round of 16,United States,1,2,Ghana,Extra time,derrota,USA,GHA,54265.33606,0.911,3757.458926,0.574,50507.877134,derrota
+2010,Round of 16,Germany,4,1,England,,vitoria,DEU,GBR,47554.22563,0.926,41666.51526,0.912,5887.710370000001,vitoria
+2010,Round of 16,Argentina,3,1,Mexico,,vitoria,ARG,MEX,22734.96712,0.834,17575.83104,0.746,5159.13608,vitoria
+2010,Round of 16,Netherlands,2,1,Slovakia,,vitoria,NLD,SVK,52227.99073,0.917,26036.87643,0.84,26191.114299999997,vitoria
+2010,Round of 16,Brazil,3,0,Chile,,vitoria,BRA,CHL,14414.12776,0.723,19744.92469,0.813,5330.79693,derrota
+2010,Round of 16,Paraguay,0,0,Japan,Paraguay win on penalties (5 - 3),empate,PRY,JPN,9908.752523,0.685,39152.92818,0.898,29244.175657000003,empate
+2010,Round of 16,Spain,1,0,Portugal,,vitoria,ESP,PRT,37173.6819,0.868,30139.45026,0.829,7034.231640000002,vitoria
+2010,Quarter-finals,Netherlands,2,1,Brazil,,vitoria,NLD,BRA,52227.99073,0.917,14414.12776,0.723,37813.86297,vitoria
+2010,Quarter-finals,Uruguay,1,1,Ghana,Uruguay win on penalties (4 - 2),empate,URY,GHA,18614.31477,0.787,3757.458926,0.574,14856.855844000002,empate
+2010,Quarter-finals,Argentina,0,4,Germany,,derrota,ARG,DEU,22734.96712,0.834,47554.22563,0.926,24819.25851,vitoria
+2010,Quarter-finals,Paraguay,0,1,Spain,,derrota,PRY,ESP,9908.752523,0.685,37173.6819,0.868,27264.929377000004,vitoria
+2010,Semi-finals,Uruguay,2,3,Netherlands,,derrota,URY,NLD,18614.31477,0.787,52227.99073,0.917,33613.67595999999,vitoria
+2010,Semi-finals,Germany,0,1,Spain,,derrota,DEU,ESP,47554.22563,0.926,37173.6819,0.868,10380.543729999998,derrota
+2010,Third place,Uruguay,2,3,Germany,,derrota,URY,DEU,18614.31477,0.787,47554.22563,0.926,28939.91086,vitoria
+2010,Final,Netherlands,0,1,Spain,Extra time,derrota,NLD,ESP,52227.99073,0.917,37173.6819,0.868,15054.308829999994,derrota
+2014,Group stage,Brazil,3,1,Croatia,,vitoria,BRA,HRV,15454.76924,0.754,23578.51131,0.841,8123.742070000002,derrota
+2014,Group stage,Mexico,1,0,Cameroon,,vitoria,MEX,CMR,18423.54338,0.764,3443.009493,0.551,14980.533887,vitoria
+2014,Group stage,Spain,1,5,Netherlands,,derrota,ESP,NLD,35796.00345,0.884,51659.69255,0.931,15863.689100000003,vitoria
+2014,Group stage,Chile,3,1,Australia,,vitoria,CHL,AUS,23261.50787,0.841,45851.64201,0.931,22590.134140000002,derrota
+2014,Group stage,Colombia,3,0,Greece,,vitoria,COL,GRC,13432.16118,0.75,27850.41613,0.879,14418.254950000002,derrota
+2014,Group stage,Uruguay,1,3,Costa Rica,,derrota,URY,CRI,21004.10273,0.808,17919.03127,0.796,3085.071459999999,derrota
+2014,Group stage,England,1,2,Italy,,derrota,GBR,ITA,43236.64235,0.924,39490.18497,0.883,3746.45738,derrota
+2014,Group stage,Ivory Coast,2,1,Japan,,vitoria,CIV,JPN,4150.413316,0.502,40482.79312,0.914,36332.379804000004,derrota
+2014,Group stage,Switzerland,2,1,Ecuador,,vitoria,CHE,ECU,69019.26094,0.952,11887.546,0.76,57131.71493999999,vitoria
+2014,Group stage,France,3,0,Honduras,,vitoria,FRA,HND,43562.21508,0.892,4783.560934,0.606,38778.654146,vitoria
+2014,Group stage,Argentina,2,1,Bosnia and Herzegovina,,vitoria,ARG,BIH,23087.86964,0.846,12166.00844,0.756,10921.861200000001,vitoria
+2014,Group stage,Germany,4,0,Portugal,,vitoria,DEU,PRT,51268.8727,0.937,29339.43433,0.848,21929.43837,vitoria
+2014,Group stage,Iran,0,0,Nigeria,,empate,IRN,NGA,13078.65731,0.773,5311.162154,0.512,7767.495156000001,empate
+2014,Group stage,Ghana,1,2,United States,,derrota,GHA,USA,4537.170026,0.6,58314.25546,0.919,53777.085434,vitoria
+2014,Group stage,Belgium,2,1,Algeria,,vitoria,BEL,DZA,49281.30405,0.921,11242.29072,0.735,38039.01333,vitoria
+2014,Group stage,Brazil,0,0,Mexico,,empate,BRA,MEX,15454.76924,0.754,18423.54338,0.764,2968.7741399999995,empate
+2014,Group stage,Russia,1,1,South Korea,,empate,RUS,KOR,25127.72727,0.818,38144.21084,0.906,13016.48357,empate
+2014,Group stage,Australia,2,3,Netherlands,,derrota,AUS,NLD,45851.64201,0.931,51659.69255,0.931,5808.0505399999965,vitoria
+2014,Group stage,Spain,0,2,Chile,,derrota,ESP,CHL,35796.00345,0.884,23261.50787,0.841,12534.495579999995,derrota
+2014,Group stage,Cameroon,0,4,Croatia,,derrota,CMR,HRV,3443.009493,0.551,23578.51131,0.841,20135.501817,vitoria
+2014,Group stage,Colombia,2,1,Ivory Coast,,vitoria,COL,CIV,13432.16118,0.75,4150.413316,0.502,9281.747863999999,vitoria
+2014,Group stage,Uruguay,2,1,England,,vitoria,URY,GBR,21004.10273,0.808,43236.64235,0.924,22232.539620000003,derrota
+2014,Group stage,Japan,0,0,Greece,,empate,JPN,GRC,40482.79312,0.914,27850.41613,0.879,12632.37699,empate
+2014,Group stage,Italy,0,1,Costa Rica,,derrota,ITA,CRI,39490.18497,0.883,17919.03127,0.796,21571.153700000003,derrota
+2014,Group stage,Switzerland,2,5,France,,derrota,CHE,FRA,69019.26094,0.952,43562.21508,0.892,25457.04585999999,derrota
+2014,Group stage,Honduras,1,2,Ecuador,,derrota,HND,ECU,4783.560934,0.606,11887.546,0.76,7103.985066,vitoria
+2014,Group stage,Argentina,1,0,Iran,,vitoria,ARG,IRN,23087.86964,0.846,13078.65731,0.773,10009.21233,vitoria
+2014,Group stage,Germany,2,2,Ghana,,empate,DEU,GHA,51268.8727,0.937,4537.170026,0.6,46731.702674,empate
+2014,Group stage,Nigeria,1,0,Bosnia and Herzegovina,,vitoria,NGA,BIH,5311.162154,0.512,12166.00844,0.756,6854.846286,derrota
+2014,Group stage,Belgium,1,0,Russia,,vitoria,BEL,RUS,49281.30405,0.921,25127.72727,0.818,24153.57678,vitoria
+2014,Group stage,South Korea,2,4,Algeria,,derrota,KOR,DZA,38144.21084,0.906,11242.29072,0.735,26901.92012,derrota
+2014,Group stage,United States,2,2,Portugal,,empate,USA,PRT,58314.25546,0.919,29339.43433,0.848,28974.82113,empate
+2014,Group stage,Australia,0,3,Spain,,derrota,AUS,ESP,45851.64201,0.931,35796.00345,0.884,10055.638560000007,derrota
+2014,Group stage,Netherlands,2,0,Chile,,vitoria,NLD,CHL,51659.69255,0.931,23261.50787,0.841,28398.18468,vitoria
+2014,Group stage,Brazil,4,1,Cameroon,,vitoria,BRA,CMR,15454.76924,0.754,3443.009493,0.551,12011.759747,vitoria
+2014,Group stage,Croatia,1,3,Mexico,,derrota,HRV,MEX,23578.51131,0.841,18423.54338,0.764,5154.9679300000025,derrota
+2014,Group stage,Italy,0,1,Uruguay,,derrota,ITA,URY,39490.18497,0.883,21004.10273,0.808,18486.082240000003,derrota
+2014,Group stage,Costa Rica,0,0,England,,empate,CRI,GBR,17919.03127,0.796,43236.64235,0.924,25317.611080000002,empate
+2014,Group stage,Japan,1,4,Colombia,,derrota,JPN,COL,40482.79312,0.914,13432.16118,0.75,27050.631940000003,derrota
+2014,Group stage,Greece,2,1,Ivory Coast,,vitoria,GRC,CIV,27850.41613,0.879,4150.413316,0.502,23700.002814,vitoria
+2014,Group stage,Nigeria,2,3,Argentina,,derrota,NGA,ARG,5311.162154,0.512,23087.86964,0.846,17776.707486,vitoria
+2014,Group stage,Bosnia and Herzegovina,3,1,Iran,,vitoria,BIH,IRN,12166.00844,0.756,13078.65731,0.773,912.6488700000009,derrota
+2014,Group stage,Honduras,0,3,Switzerland,,derrota,HND,CHE,4783.560934,0.606,69019.26094,0.952,64235.70000599999,vitoria
+2014,Group stage,Ecuador,0,0,France,,empate,ECU,FRA,11887.546,0.76,43562.21508,0.892,31674.66908,empate
+2014,Group stage,United States,0,1,Germany,,derrota,USA,DEU,58314.25546,0.919,51268.8727,0.937,7045.38276,derrota
+2014,Group stage,Portugal,2,1,Ghana,,vitoria,PRT,GHA,29339.43433,0.848,4537.170026,0.6,24802.264304,vitoria
+2014,Group stage,South Korea,0,1,Belgium,,derrota,KOR,BEL,38144.21084,0.906,49281.30405,0.921,11137.093209999999,vitoria
+2014,Group stage,Algeria,1,1,Russia,,empate,DZA,RUS,11242.29072,0.735,25127.72727,0.818,13885.436549999999,empate
+2014,Round of 16,Brazil,1,1,Chile,Brazil win on penalties (3 - 2),empate,BRA,CHL,15454.76924,0.754,23261.50787,0.841,7806.738630000002,empate
+2014,Round of 16,Colombia,2,0,Uruguay,,vitoria,COL,URY,13432.16118,0.75,21004.10273,0.808,7571.94155,derrota
+2014,Round of 16,Netherlands,2,1,Mexico,,vitoria,NLD,MEX,51659.69255,0.931,18423.54338,0.764,33236.149170000004,vitoria
+2014,Round of 16,Costa Rica,1,1,Greece,Costa Rica win on penalties (5 - 3),empate,CRI,GRC,17919.03127,0.796,27850.41613,0.879,9931.384860000002,empate
+2014,Round of 16,France,2,0,Nigeria,,vitoria,FRA,NGA,43562.21508,0.892,5311.162154,0.512,38251.052926000004,vitoria
+2014,Round of 16,Germany,2,1,Algeria,Extra time,vitoria,DEU,DZA,51268.8727,0.937,11242.29072,0.735,40026.58198,vitoria
+2014,Round of 16,Argentina,1,0,Switzerland,Extra time,vitoria,ARG,CHE,23087.86964,0.846,69019.26094,0.952,45931.39129999999,derrota
+2014,Round of 16,Belgium,2,1,United States,Extra time,vitoria,BEL,USA,49281.30405,0.921,58314.25546,0.919,9032.951410000001,derrota
+2014,Quarter-finals,France,0,1,Germany,,derrota,FRA,DEU,43562.21508,0.892,51268.8727,0.937,7706.657619999998,vitoria
+2014,Quarter-finals,Brazil,2,1,Colombia,,vitoria,BRA,COL,15454.76924,0.754,13432.16118,0.75,2022.6080600000005,vitoria
+2014,Quarter-finals,Argentina,1,0,Belgium,,vitoria,ARG,BEL,23087.86964,0.846,49281.30405,0.921,26193.434409999998,derrota
+2014,Quarter-finals,Netherlands,0,0,Costa Rica,Netherlands win on penalties (4 - 3),empate,NLD,CRI,51659.69255,0.931,17919.03127,0.796,33740.66128,empate
+2014,Semi-finals,Brazil,1,7,Germany,,derrota,BRA,DEU,15454.76924,0.754,51268.8727,0.937,35814.10346,vitoria
+2014,Semi-finals,Netherlands,0,0,Argentina,Argentina win on penalties (2 - 4),empate,NLD,ARG,51659.69255,0.931,23087.86964,0.846,28571.82291,empate
+2014,Third place,Brazil,0,3,Netherlands,,derrota,BRA,NLD,15454.76924,0.754,51659.69255,0.931,36204.92331,vitoria
+2014,Final,Germany,1,0,Argentina,Extra time,vitoria,DEU,ARG,51268.8727,0.937,23087.86964,0.846,28181.00306,vitoria
+2018,Group stage,Russia,5,0,Saudi Arabia,,vitoria,RUS,SAU,25977.61212,0.841,48123.7529,0.865,22146.140779999998,derrota
+2018,Group stage,Egypt,0,1,Uruguay,,derrota,EGY,URY,11079.03334,0.729,21730.72567,0.819,10651.69233,vitoria
+2018,Group stage,Morocco,0,1,Iran,,derrota,MAR,IRN,7301.739349,0.676,13536.54586,0.787,6234.806511,vitoria
+2018,Group stage,Portugal,3,3,Spain,,empate,PRT,ESP,33134.17013,0.86,40234.64314,0.901,7100.4730100000015,empate
+2018,Group stage,France,2,1,Australia,,vitoria,FRA,AUS,46162.6579,0.901,47487.64407,0.941,1324.9861700000038,derrota
+2018,Group stage,Argentina,1,1,Iceland,,empate,ARG,ISL,21924.73119,0.85,56492.26004,0.959,34567.52885,empate
+2018,Group stage,Peru,0,1,Denmark,,derrota,PER,DNK,12142.66015,0.776,57549.14584,0.942,45406.48569,vitoria
+2018,Group stage,Croatia,2,0,Nigeria,,vitoria,HRV,NGA,27784.40613,0.856,4928.925873,0.531,22855.480257,vitoria
+2018,Group stage,Costa Rica,0,1,Serbia,,derrota,CRI,SRB,19562.35999,0.811,16565.63064,0.808,2996.7293500000014,derrota
+2018,Group stage,Germany,0,1,Mexico,,derrota,DEU,MEX,54981.27749,0.945,19385.89225,0.777,35595.38524,derrota
+2018,Group stage,Brazil,1,1,Switzerland,,empate,BRA,CHE,14258.48421,0.764,67771.6548,0.959,53513.17059,empate
+2018,Group stage,Sweden,1,0,South Korea,,vitoria,SWE,KOR,53050.91638,0.942,42115.21132,0.919,10935.70506,vitoria
+2018,Group stage,Belgium,3,0,Panama,,vitoria,BEL,PAN,51249.2268,0.933,28869.22802,0.814,22379.998779999998,vitoria
+2018,Group stage,Tunisia,1,2,England,,derrota,TUN,GBR,11027.26702,0.743,46225.87833,0.929,35198.61131,vitoria
+2018,Group stage,Colombia,1,2,Japan,,derrota,COL,JPN,13941.33097,0.763,43086.85266,0.923,29145.521689999994,vitoria
+2018,Group stage,Poland,1,2,Senegal,,derrota,POL,SEN,30369.76617,0.877,3224.813134,0.512,27144.953036,derrota
+2018,Group stage,Russia,3,1,Egypt,,vitoria,RUS,EGY,25977.61212,0.841,11079.03334,0.729,14898.578780000002,vitoria
+2018,Group stage,Portugal,1,0,Morocco,,vitoria,PRT,MAR,33134.17013,0.86,7301.739349,0.676,25832.430781,vitoria
+2018,Group stage,Uruguay,1,0,Saudi Arabia,,vitoria,URY,SAU,21730.72567,0.819,48123.7529,0.865,26393.02723,derrota
+2018,Group stage,Iran,0,1,Spain,,derrota,IRN,ESP,13536.54586,0.787,40234.64314,0.901,26698.09728,vitoria
+2018,Group stage,Denmark,1,1,Australia,,empate,DNK,AUS,57549.14584,0.942,47487.64407,0.941,10061.501769999995,empate
+2018,Group stage,France,1,0,Peru,,vitoria,FRA,PER,46162.6579,0.901,12142.66015,0.776,34019.997749999995,vitoria
+2018,Group stage,Argentina,0,3,Croatia,,derrota,ARG,HRV,21924.73119,0.85,27784.40613,0.856,5859.674940000001,vitoria
+2018,Group stage,Brazil,2,0,Costa Rica,,vitoria,BRA,CRI,14258.48421,0.764,19562.35999,0.811,5303.87578,derrota
+2018,Group stage,Nigeria,2,0,Iceland,,vitoria,NGA,ISL,4928.925873,0.531,56492.26004,0.959,51563.334167,derrota
+2018,Group stage,Serbia,1,2,Switzerland,,derrota,SRB,CHE,16565.63064,0.808,67771.6548,0.959,51206.02416,vitoria
+2018,Group stage,Belgium,5,2,Tunisia,,vitoria,BEL,TUN,51249.2268,0.933,11027.26702,0.743,40221.95978,vitoria
+2018,Group stage,South Korea,1,2,Mexico,,derrota,KOR,MEX,42115.21132,0.919,19385.89225,0.777,22729.31907,derrota
+2018,Group stage,Germany,2,1,Sweden,,vitoria,DEU,SWE,54981.27749,0.945,53050.91638,0.942,1930.361109999998,vitoria
+2018,Group stage,England,6,1,Panama,,vitoria,GBR,PAN,46225.87833,0.929,28869.22802,0.814,17356.65031,vitoria
+2018,Group stage,Japan,2,2,Senegal,,empate,JPN,SEN,43086.85266,0.923,3224.813134,0.512,39862.03952599999,empate
+2018,Group stage,Poland,0,3,Colombia,,derrota,POL,COL,30369.76617,0.877,13941.33097,0.763,16428.4352,derrota
+2018,Group stage,Russia,0,3,Uruguay,,derrota,RUS,URY,25977.61212,0.841,21730.72567,0.819,4246.886450000002,derrota
+2018,Group stage,Saudi Arabia,2,1,Egypt,,vitoria,SAU,EGY,48123.7529,0.865,11079.03334,0.729,37044.71956,vitoria
+2018,Group stage,Spain,2,2,Morocco,,empate,ESP,MAR,40234.64314,0.901,7301.739349,0.676,32932.903791,empate
+2018,Group stage,Iran,1,1,Portugal,,empate,IRN,PRT,13536.54586,0.787,33134.17013,0.86,19597.62427,empate
+2018,Group stage,Australia,0,2,Peru,,derrota,AUS,PER,47487.64407,0.941,12142.66015,0.776,35344.98392,derrota
+2018,Group stage,Denmark,0,0,France,,empate,DNK,FRA,57549.14584,0.942,46162.6579,0.901,11386.487939999999,empate
+2018,Group stage,Nigeria,1,2,Argentina,,derrota,NGA,ARG,4928.925873,0.531,21924.73119,0.85,16995.805317,vitoria
+2018,Group stage,Iceland,1,2,Croatia,,derrota,ISL,HRV,56492.26004,0.959,27784.40613,0.856,28707.85391,derrota
+2018,Group stage,South Korea,2,0,Germany,,vitoria,KOR,DEU,42115.21132,0.919,54981.27749,0.945,12866.066169999998,derrota
+2018,Group stage,Mexico,0,3,Sweden,,derrota,MEX,SWE,19385.89225,0.777,53050.91638,0.942,33665.024130000005,vitoria
+2018,Group stage,Serbia,0,2,Brazil,,derrota,SRB,BRA,16565.63064,0.808,14258.48421,0.764,2307.146429999999,derrota
+2018,Group stage,Switzerland,2,2,Costa Rica,,empate,CHE,CRI,67771.6548,0.959,19562.35999,0.811,48209.29481000001,empate
+2018,Group stage,Japan,0,1,Poland,,derrota,JPN,POL,43086.85266,0.923,30369.76617,0.877,12717.086489999998,derrota
+2018,Group stage,Senegal,0,1,Colombia,,derrota,SEN,COL,3224.813134,0.512,13941.33097,0.763,10716.517836,vitoria
+2018,Group stage,Panama,1,2,Tunisia,,derrota,PAN,TUN,28869.22802,0.814,11027.26702,0.743,17841.961,derrota
+2018,Group stage,England,0,1,Belgium,,derrota,GBR,BEL,46225.87833,0.929,51249.2268,0.933,5023.348469999997,vitoria
+2018,Round of 16,France,4,3,Argentina,,vitoria,FRA,ARG,46162.6579,0.901,21924.73119,0.85,24237.92671,vitoria
+2018,Round of 16,Uruguay,2,1,Portugal,,vitoria,URY,PRT,21730.72567,0.819,33134.17013,0.86,11403.444459999999,derrota
+2018,Round of 16,Russia,1,1,Spain,Russia win on penalties (4 - 3),empate,RUS,ESP,25977.61212,0.841,40234.64314,0.901,14257.031019999999,empate
+2018,Round of 16,Croatia,1,1,Denmark,Croatia win on penalties (3 - 2),empate,HRV,DNK,27784.40613,0.856,57549.14584,0.942,29764.739709999998,empate
+2018,Round of 16,Brazil,2,0,Mexico,,vitoria,BRA,MEX,14258.48421,0.764,19385.89225,0.777,5127.40804,derrota
+2018,Round of 16,Belgium,3,2,Japan,,vitoria,BEL,JPN,51249.2268,0.933,43086.85266,0.923,8162.37414,vitoria
+2018,Round of 16,Sweden,1,0,Switzerland,,vitoria,SWE,CHE,53050.91638,0.942,67771.6548,0.959,14720.738420000001,derrota
+2018,Round of 16,Colombia,1,1,England,England win on penalties (3 - 4),empate,COL,GBR,13941.33097,0.763,46225.87833,0.929,32284.547359999997,empate
+2018,Quarter-finals,Uruguay,0,2,France,,derrota,URY,FRA,21730.72567,0.819,46162.6579,0.901,24431.93223,vitoria
+2018,Quarter-finals,Brazil,1,2,Belgium,,derrota,BRA,BEL,14258.48421,0.764,51249.2268,0.933,36990.742589999994,vitoria
+2018,Quarter-finals,Sweden,0,2,England,,derrota,SWE,GBR,53050.91638,0.942,46225.87833,0.929,6825.038050000003,derrota
+2018,Quarter-finals,Russia,2,2,Croatia,Croatia win on penalties (3 - 4),empate,RUS,HRV,25977.61212,0.841,27784.40613,0.856,1806.7940099999978,empate
+2018,Semi-finals,France,1,0,Belgium,,vitoria,FRA,BEL,46162.6579,0.901,51249.2268,0.933,5086.568899999998,derrota
+2018,Semi-finals,Croatia,2,1,England,Extra time,vitoria,HRV,GBR,27784.40613,0.856,46225.87833,0.929,18441.4722,derrota
+2018,Third place,Belgium,2,0,England,,vitoria,BEL,GBR,51249.2268,0.933,46225.87833,0.929,5023.348469999997,vitoria
+2018,Final,France,4,2,Croatia,,vitoria,FRA,HRV,46162.6579,0.901,27784.40613,0.856,18378.25177,vitoria
